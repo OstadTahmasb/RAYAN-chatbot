@@ -8,7 +8,7 @@ import pickle
 
 if __name__ == "__main__":
     dotenv.load_dotenv()
-    loader = UnstructuredLoader("../data/data.txt")
+    loader = UnstructuredLoader("../data/contest_data.txt")
     splitter = RecursiveCharacterTextSplitter(
         separators=['\n\n'],
         chunk_size=20,

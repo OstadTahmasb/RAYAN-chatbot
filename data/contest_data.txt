@@ -1,0 +1,56 @@
+Benefits of participating in the Rayan contest are the following ones: 1. Publication of articles in a reputable journal featuring the achievements of the top 5 teams, with the team members as authors (similar examples of contests previously held this way include MIDOG, Data Science Bowl 2018, and Grand Challenge).
+
+
+Scientific benefits can be mentioned as follows for different categories:
+For Researchers: The aspects examined in Phase 2 of the contest, which focus on the trustworthiness of AI, are considered fundamental frontier topics in research.
+For ML Engineers: Enhancing skills related to applying AI in products.
+For Kaggle Masters: A new kind of challenge.
+For Students: Bridge the gap between theory and practice, enhance your problem-solving skills, and build a standout resume.
+
+
+$20,000, $10,000, and $5,000 for the top three teams. The top 10 teams will be invited to Iran, and all travel and hotel expenses will be fully covered by the contest.
+
+
+As you may know, few competitions have been held in the field of AI trustworthiness and participating in this contest can help you become familiar with the related concepts theoretically and practically.
+
+
+Researchers, Kaggle Masters, ML Engineers, Data Scientists, and enthusiasts of AI and trustworthiness are the people who should not miss this contest, as trustworthiness is becoming one of the challenging areas in the industry. There are no restrictions based on country or age.
+
+
+The listed judges have published a significant number of papers in Tier 1 conferences in recent years and are leaders in related fields (Dr. Sameti, Dr. Zarabi-Zadeh, Dr. Abam, Dr. Rahban, Dr. Soleimani, Dr. Najafi, Dr. Asgari, Dr. Sharifi Zarchi).
+
+
+Dr. Zarabi-Zadeh and Dr. Abam have been organizers and continuous supervisors of the National Computer Olympiad and the ICPC competitions in Iran. The International Computer Olympiad in 2017 was also held in Iran under their supervision.
+
+
+Dr. Sharifi Zarchi: President of the International Computer Olympiad Committee and a member of the International AI Olympiad Committee.
+
+
+Contest is held through 3 phases:
+Phase 1 (Screening Phase): Virtual | with around 200 Iranian teams and 200 international teams or more. There will be approximately 4 simple questions to assess team qualifications. Around 100 or 150 top teams will advance.
+Phase 2 (Main Phase): Virtual | The main contest with two questions focused on trustworthiness in deep learning. Ten teams will advance from this phase.
+Phase 3 (Presentation Phase): In-person | The top 10 teams from the previous phase will come to Tehran to present their solutions both theoretically and practically to the judging panel.
+
+
+You should have a general understanding of Deep Learning and the concept of Trustworthiness in AI, and It’s good to have these prior knowledge for participating; but if not, you can take part in the related courses held by the Rayan team:
+For Phase 1: A basic familiarity with Deep Learning is required.
+For Phase 2: Participants need to have a good understanding of Trustworthiness.
+Knowing details about these topics could be advantageous for you: Adversarial Robustness - Model Poisoning - Anomaly Detection - Spurious Correlation - Distribution Shift
+
+
+This is the schedule of Rayan contest:
+Phase 1 (Screening Phase): October 17th to October 21st, 2024
+Phase 2 (Main Phase): October 24th to December 17th, 2024
+Phase 3 (Presentation Phase): February 3rd, 2025
+
+
+For registering the contest, you should go to the contest website on ai.rayan.global . participation in the contest is completely free of charge.
+
+
+The participants should form teams of at least 2 members to compete. The first 2 phases of the contest will be online. The final phase will be held in-person in Tehran, featuring the top 10 teams.
+
+
+You can raise your questions or issues by visiting the event support account (https://t.me/rayanai_info) in telegram; we will respond to you as soon as possible.
+
+
+By following the Telegram channel (https://t.me/Rayan_AI_Contest) and the Website (https://micro.ce.sharif.edu/ai-contest), you will be informed of the event's announcements.
