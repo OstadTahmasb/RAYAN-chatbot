@@ -56,7 +56,7 @@ class Tagger:
         self.translation_chain = translation_prompt | translation_llm
 
     def __init_retriever(self):
-        loader = UnstructuredLoader("data/data.txt")
+        loader = UnstructuredLoader("../data/data.txt")
         loaded_doc = loader.load()
         splitter = RecursiveCharacterTextSplitter(
             separators=["\n\n"],

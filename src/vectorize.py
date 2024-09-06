@@ -8,7 +8,7 @@ import pickle
 
 if __name__ == "__main__":
     dotenv.load_dotenv()
-    loader = UnstructuredLoader("data/data.txt")
+    loader = UnstructuredLoader("../data/data.txt")
     splitter = RecursiveCharacterTextSplitter(
         separators=['\n\n'],
         chunk_size=20,
@@ -21,5 +21,5 @@ if __name__ == "__main__":
         print(doc.page_content.strip())
         print('-' * 80)
     vectorstore = FAISS.from_documents(documents, OpenAIEmbeddings())
-    with open("data/vectorstore.pkl", "wb") as f:
+    with open("../data/vectorstore.pkl", "wb") as f:
         pickle.dump(vectorstore, f)
