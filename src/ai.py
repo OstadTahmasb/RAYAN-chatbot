@@ -31,19 +31,18 @@ class AI:
         tagging_prompt = ChatPromptTemplate.from_template(
             """Extract the customer's problem from the passage below.
         
-        The problem can be tagged with one of the following options:
+The problem can be tagged with one of the following options:
         
-        <<<
-        login: customer has problem logging in to classroom or is uninformed about the login credentials
-        telegram: customer can't access the telegram channel or can't watch the recorded videos
-        quera: customer can't access the quera(کوئرا، کوورا، کورا) website or doesn't know about the website at all
-        >>>
+<<<
+login: customer has problem logging in to classroom or is uninformed about the login credentials
+telegram: customer can't access the telegram channel or can't watch the recorded videos
+quera: customer can't access the quera(کوئرا، کوورا، کورا) website or doesn't know about the website at all
+>>>
         
-        Only extract the properties mentioned in the 'Classification' function.
+Only extract the properties mentioned in the 'Classification' function.
         
-        Passage:
-        {input}
-        """
+Passage:
+{input}"""
         )
         tagging_llm = ChatOpenAI(temperature=0, model="gpt-4o-mini").with_structured_output(Classification)
         self.tagging_chain = tagging_prompt | tagging_llm
@@ -51,11 +50,10 @@ class AI:
     def __init_translation_chain(self):
         translation_prompt = ChatPromptTemplate.from_template(
             """Translate the text in the passage below to American English in a polite tone.
-        Also, Extract the language it was written in.
+Also, Extract the language it was written in.
         
-        Passage:
-        {input}
-        """
+Passage:
+{input}"""
         )
         translation_llm = ChatOpenAI(temperature=0, model="gpt-4o-mini").with_structured_output(Translation)
         self.translation_chain = translation_prompt | translation_llm
@@ -112,6 +110,32 @@ If you don't know the answer to a question just say something like 'I don't know
                                             | self.contest_retriever))
                                    .assign(response=contest_answer_chain))
 
+        courses_answer_prompt = ChatPromptTemplate.from_messages(
+            [
+                ("system",
+                 """You are a helpful support bot. You are asked questions about the educational courses held to prepare participants for the RAYAN AI International contest.
+RAYAN AI International contest is a professional contest held by Sharif University. Contestants from all over the world compete to win cash prizes in a coding contest about Trustworthiness in Machine Learning.
+Two educational courses are held by Sharif University professors who teach the subjects needed for the contest.
+Your task is to answer the question only based on the context below and other information already provided to you in the chat.
+keep a polite tone and answer positively about the contest.
+If you don't know the answer to a question just say something like 'I don't know' or something similar. Do not make up answers or data from your own or other sources.
+
+>>>context
+{context}
+<<<
+"""),
+                MessagesPlaceholder(variable_name="messages"),
+            ]
+        )
+        courses_answer_chain = create_stuff_documents_chain(self.llm, courses_answer_prompt)
+        self.courses_info_chain = (RunnablePassthrough
+                                   .assign(context=
+                                           query_generating_prompt
+                                           | self.llm
+                                           | StrOutputParser()
+                                           | self.courses_retriever)
+                                   .assign(response=courses_answer_chain))
+
     def tag(self, inp) -> str:
         # translation = self.translation_chain.invoke({"input": inp})
         # result = self.tagging_chain.invoke({"input": translation.translation})
@@ -126,7 +150,11 @@ If you don't know the answer to a question just say something like 'I don't know
         return response
 
     def get_courses_info(self, inp):
-        pass
+        history = FileChatMessageHistory("his")
+        history.add_user_message(inp)
+        messages = history.messages
+        response = self.courses_info_chain.invoke({"messages": messages})
+        return response
 
 
 class Classification(BaseModel):

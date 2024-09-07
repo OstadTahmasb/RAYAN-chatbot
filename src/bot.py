@@ -14,13 +14,13 @@ email = ""
 
 ai = AI()
 
-info_keyboard = ReplyKeyboardMarkup(one_time_keyboard=True)
+info_keyboard = ReplyKeyboardMarkup(one_time_keyboard=True, resize_keyboard=True)
 info_keyboard.add("دوره های آموزشی", "مسابقه")
 
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    text = "سلام وقت بخیر!\nبه بات پشتیبان مسابقه هوش مصنوعی رایان خوش اومدین!\nلطفا اگر مشکلی براتون به وجود اومده از support\\ استفاده کنید و اگر سوالی در مورد دوره ها دارید ask\\ رو بزنید.\nممنونیم!"
+    text = "سلام وقت بخیر!\nبه بات پشتیبان مسابقه هوش مصنوعی رایان خوش اومدین!\nلطفا اگر مشکلی براتون به وجود اومده از /support استفاده کنید و اگر سوالی در مورد دوره ها یا مسابقه دارید /info رو بزنید.\nممنونیم!"
     bot.send_message(message.chat.id, text, parse_mode="Markdown")
     # bot.register_next_step_handler(msg, handler)
 
@@ -56,7 +56,10 @@ def email_getter(message):
 
 def problem_handler(message):
     tag = ai.tag(message.text)
-    bot.send_message(os.getenv('SUPPORT_CHANNEL'), str(national_code) + "\n" + str(email) + "\n" + tag)
+    bot.send_message(os.getenv('SUPPORT_CHANNEL'),
+                     str(message.chat.id) + '\n' + str(national_code) + '\n' + str(email) + '\n' + tag)
+    text = "ممنونم! مشکل شما ثبت شد. همکارانم در پشتیبانی به زودی به اون رسیدگی خواهند کرد و نتیجه همینجا به شما اعلام می شود."
+    bot.send_message(message.chat.id, text)
 
 
 @bot.message_handler(commands=['info'])
@@ -85,8 +88,10 @@ def contest_info_handler(message):
 
 
 def courses_info_handler(message):
+    print(message)
     response = ai.get_courses_info(message.text)
-    bot.send_message(message.chat.id, response)
+    print(response)
+    bot.send_message(message.chat.id, response['response'])
 
 
 bot.infinity_polling()
