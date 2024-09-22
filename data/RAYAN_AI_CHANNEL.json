@@ -1,0 +1,3678 @@
+{
+ "name": "Rayan AI",
+ "type": "public_channel",
+ "id": 2197505070,
+ "messages": [
+  {
+   "id": 1,
+   "type": "service",
+   "date": "2024-06-17T18:13:22",
+   "date_unixtime": "1718635402",
+   "actor": "Rayan AI",
+   "actor_id": "channel2197505070",
+   "action": "create_channel",
+   "title": "Rayan AI",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 10,
+   "type": "message",
+   "date": "2024-08-05T20:42:07",
+   "date_unixtime": "1722877927",
+   "edited": "2024-08-07T08:46:51",
+   "edited_unixtime": "1723007811",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    "  ",
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➕",
+     "document_id": "stickers/sticker (1).webp"
+    },
+    "We are glad to introduce the Rayan International AI Contest. The main goal of this contest is to promote ",
+    {
+     "type": "bold",
+     "text": "Trustworthiness in Deep Learning"
+    },
+    ". It provides an opportunity for an assessment of individuals’ talents, who are into AI worldwide.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🎛",
+     "document_id": "stickers/sticker (2).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Contest Phases"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "1️⃣",
+     "document_id": "stickers/sticker (3).webp"
+    },
+    "| ",
+    {
+     "type": "bold",
+     "text": "Screening Phase"
+    },
+    "\nThis is the beginning phase and the more capable participants will be selected to continue this interesting journey.\n",
+    {
+     "type": "custom_emoji",
+     "text": "2️⃣",
+     "document_id": "stickers/sticker (4).webp"
+    },
+    "| ",
+    {
+     "type": "bold",
+     "text": "Main Phase"
+    },
+    "\nThis is the main phase in which you compete with highly capable enthusiasts of AI.\n",
+    {
+     "type": "custom_emoji",
+     "text": "3️⃣",
+     "document_id": "stickers/sticker (5).webp"
+    },
+    "| ",
+    {
+     "type": "bold",
+     "text": "Presentation Phase"
+    },
+    "\nIn this phase, the top 10 teams will present their Phase 2 solutions in-person to the panel of judges in Iran.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🎁",
+     "document_id": "stickers/sticker (6).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Prizes"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🥇",
+     "document_id": "stickers/sticker (7).webp"
+    },
+    "1st team: ",
+    {
+     "type": "bold",
+     "text": "$20,000"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🥈",
+     "document_id": "stickers/sticker (8).webp"
+    },
+    "2nd team: ",
+    {
+     "type": "bold",
+     "text": "$10,000"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🥉",
+     "document_id": "stickers/sticker (9).webp"
+    },
+    "3rd team: ",
+    {
+     "type": "bold",
+     "text": "$5,000"
+    },
+    "\n\n",
+    {
+     "type": "blockquote",
+     "text": "🗂 Related Subjects\n    • Adversarial Training\n    • Poisoning\n    • One-Class classification\n    • Open-Set classification\n    • Out-of-Distribution Detection\n    • Spurious Correlation\n    • Compositional Generalization",
+     "collapsed": true
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Get Started: ",
+    {
+     "type": "text_link",
+     "text": "ai.rayan.global",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": "  "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➕",
+     "document_id": "stickers/sticker (1).webp"
+    },
+    {
+     "type": "plain",
+     "text": "We are glad to introduce the Rayan International AI Contest. The main goal of this contest is to promote "
+    },
+    {
+     "type": "bold",
+     "text": "Trustworthiness in Deep Learning"
+    },
+    {
+     "type": "plain",
+     "text": ". It provides an opportunity for an assessment of individuals’ talents, who are into AI worldwide.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎛",
+     "document_id": "stickers/sticker (2).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Contest Phases"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "1️⃣",
+     "document_id": "stickers/sticker (3).webp"
+    },
+    {
+     "type": "plain",
+     "text": "| "
+    },
+    {
+     "type": "bold",
+     "text": "Screening Phase"
+    },
+    {
+     "type": "plain",
+     "text": "\nThis is the beginning phase and the more capable participants will be selected to continue this interesting journey.\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "2️⃣",
+     "document_id": "stickers/sticker (4).webp"
+    },
+    {
+     "type": "plain",
+     "text": "| "
+    },
+    {
+     "type": "bold",
+     "text": "Main Phase"
+    },
+    {
+     "type": "plain",
+     "text": "\nThis is the main phase in which you compete with highly capable enthusiasts of AI.\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "3️⃣",
+     "document_id": "stickers/sticker (5).webp"
+    },
+    {
+     "type": "plain",
+     "text": "| "
+    },
+    {
+     "type": "bold",
+     "text": "Presentation Phase"
+    },
+    {
+     "type": "plain",
+     "text": "\nIn this phase, the top 10 teams will present their Phase 2 solutions in-person to the panel of judges in Iran.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎁",
+     "document_id": "stickers/sticker (6).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Prizes"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🥇",
+     "document_id": "stickers/sticker (7).webp"
+    },
+    {
+     "type": "plain",
+     "text": "1st team: "
+    },
+    {
+     "type": "bold",
+     "text": "$20,000"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🥈",
+     "document_id": "stickers/sticker (8).webp"
+    },
+    {
+     "type": "plain",
+     "text": "2nd team: "
+    },
+    {
+     "type": "bold",
+     "text": "$10,000"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🥉",
+     "document_id": "stickers/sticker (9).webp"
+    },
+    {
+     "type": "plain",
+     "text": "3rd team: "
+    },
+    {
+     "type": "bold",
+     "text": "$5,000"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "🗂 Related Subjects\n    • Adversarial Training\n    • Poisoning\n    • One-Class classification\n    • Open-Set classification\n    • Out-of-Distribution Detection\n    • Spurious Correlation\n    • Compositional Generalization",
+     "collapsed": true
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Get Started: "
+    },
+    {
+     "type": "text_link",
+     "text": "ai.rayan.global",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "type": "message",
+   "date": "2024-08-07T15:31:12",
+   "date_unixtime": "1723032072",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Why should I participate in the Rayan contest?"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🎓",
+     "document_id": "stickers/sticker (12).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Publishing Article"
+    },
+    "\nRayan will publish an article in a reputable journal highlighting the achievements of the ",
+    {
+     "type": "bold",
+     "text": "top 5 teams"
+    },
+    ", featuring the team members as authors. This approach mirrors previous examples such as ",
+    {
+     "type": "text_link",
+     "text": "Midog",
+     "href": "https://midog2022.grand-challenge.org/"
+    },
+    ", ",
+    {
+     "type": "text_link",
+     "text": "Data Science Bowl 2018",
+     "href": "https://www.kaggle.com/c/data-science-bowl-2018"
+    },
+    ", and ",
+    {
+     "type": "text_link",
+     "text": "Grand Challenge",
+     "href": "https://grand-challenge.org/"
+    },
+    ".\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🎁",
+     "document_id": "stickers/sticker (6).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Top Prizes"
+    },
+    "\nThe",
+    {
+     "type": "bold",
+     "text": " top 3 teams"
+    },
+    " will be rewarded with a share of a 35,000$ prize pool, recognizing their outstanding achievements and contributions. The prize distribution will be as follows:\n",
+    {
+     "type": "custom_emoji",
+     "text": "🥇",
+     "document_id": "stickers/sticker (7).webp"
+    },
+    "1st team: $20,000\n",
+    {
+     "type": "custom_emoji",
+     "text": "🥈",
+     "document_id": "stickers/sticker (8).webp"
+    },
+    "2nd team: $10,000\n",
+    {
+     "type": "custom_emoji",
+     "text": "🥉",
+     "document_id": "stickers/sticker (9).webp"
+    },
+    "3rd team: $5,000\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗺",
+     "document_id": "stickers/sticker (13).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Travel Opportunities"
+    },
+    "\nThe ",
+    {
+     "type": "bold",
+     "text": "top 10 teams"
+    },
+    " will have the unique opportunity to travel to Iran, with ",
+    {
+     "type": "bold",
+     "text": "full financial support"
+    },
+    " provided by Rayan. This support will enable them to present their innovative solutions in-person.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/sticker (14).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Challenge and Competition"
+    },
+    "\nRayan provides you with the opportunity to sharpen your AI and problem-solving skills through this competition. You can take advantage of the chance to showcase your expertise in the contest.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Get Started: ",
+    {
+     "type": "text_link",
+     "text": "ai.rayan.global",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Why should I participate in the Rayan contest?"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎓",
+     "document_id": "stickers/sticker (12).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Publishing Article"
+    },
+    {
+     "type": "plain",
+     "text": "\nRayan will publish an article in a reputable journal highlighting the achievements of the "
+    },
+    {
+     "type": "bold",
+     "text": "top 5 teams"
+    },
+    {
+     "type": "plain",
+     "text": ", featuring the team members as authors. This approach mirrors previous examples such as "
+    },
+    {
+     "type": "text_link",
+     "text": "Midog",
+     "href": "https://midog2022.grand-challenge.org/"
+    },
+    {
+     "type": "plain",
+     "text": ", "
+    },
+    {
+     "type": "text_link",
+     "text": "Data Science Bowl 2018",
+     "href": "https://www.kaggle.com/c/data-science-bowl-2018"
+    },
+    {
+     "type": "plain",
+     "text": ", and "
+    },
+    {
+     "type": "text_link",
+     "text": "Grand Challenge",
+     "href": "https://grand-challenge.org/"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎁",
+     "document_id": "stickers/sticker (6).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Top Prizes"
+    },
+    {
+     "type": "plain",
+     "text": "\nThe"
+    },
+    {
+     "type": "bold",
+     "text": " top 3 teams"
+    },
+    {
+     "type": "plain",
+     "text": " will be rewarded with a share of a 35,000$ prize pool, recognizing their outstanding achievements and contributions. The prize distribution will be as follows:\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🥇",
+     "document_id": "stickers/sticker (7).webp"
+    },
+    {
+     "type": "plain",
+     "text": "1st team: $20,000\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🥈",
+     "document_id": "stickers/sticker (8).webp"
+    },
+    {
+     "type": "plain",
+     "text": "2nd team: $10,000\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🥉",
+     "document_id": "stickers/sticker (9).webp"
+    },
+    {
+     "type": "plain",
+     "text": "3rd team: $5,000\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗺",
+     "document_id": "stickers/sticker (13).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Travel Opportunities"
+    },
+    {
+     "type": "plain",
+     "text": "\nThe "
+    },
+    {
+     "type": "bold",
+     "text": "top 10 teams"
+    },
+    {
+     "type": "plain",
+     "text": " will have the unique opportunity to travel to Iran, with "
+    },
+    {
+     "type": "bold",
+     "text": "full financial support"
+    },
+    {
+     "type": "plain",
+     "text": " provided by Rayan. This support will enable them to present their innovative solutions in-person.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/sticker (14).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Challenge and Competition"
+    },
+    {
+     "type": "plain",
+     "text": "\nRayan provides you with the opportunity to sharpen your AI and problem-solving skills through this competition. You can take advantage of the chance to showcase your expertise in the contest.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Get Started: "
+    },
+    {
+     "type": "text_link",
+     "text": "ai.rayan.global",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "type": "message",
+   "date": "2024-08-09T10:00:29",
+   "date_unixtime": "1723185029",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Required knowledge for the Rayan contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker (15).webp"
+    },
+    " For the Screening Phase, you should have a basic understanding of ",
+    {
+     "type": "bold",
+     "text": "Deep Learning"
+    },
+    ". For the Main Phase, you will need a strong grasp of ",
+    {
+     "type": "bold",
+     "text": "Trustworthiness in AI"
+    },
+    ".\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗂",
+     "document_id": "stickers/sticker (16).webp"
+    },
+    " Detailed subjects that will be advantageous for you to understand are as follows:\n    • Adversarial Robustness\n    • Model Poisoning\n    • Anomaly Detection\n    • Spurious Correlation\n    • Distribution Shift\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Get Started:",
+    {
+     "type": "text_link",
+     "text": " ai.rayan.global",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Required knowledge for the Rayan contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker (15).webp"
+    },
+    {
+     "type": "plain",
+     "text": " For the Screening Phase, you should have a basic understanding of "
+    },
+    {
+     "type": "bold",
+     "text": "Deep Learning"
+    },
+    {
+     "type": "plain",
+     "text": ". For the Main Phase, you will need a strong grasp of "
+    },
+    {
+     "type": "bold",
+     "text": "Trustworthiness in AI"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗂",
+     "document_id": "stickers/sticker (16).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Detailed subjects that will be advantageous for you to understand are as follows:\n    • Adversarial Robustness\n    • Model Poisoning\n    • Anomaly Detection\n    • Spurious Correlation\n    • Distribution Shift\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Get Started:"
+    },
+    {
+     "type": "text_link",
+     "text": " ai.rayan.global",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://rb.gy/8cfuz4"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "type": "message",
+   "date": "2024-08-11T16:30:32",
+   "date_unixtime": "1723381232",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Scientific Advantages of the Rayan Contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "💡",
+     "document_id": "stickers/sticker (17).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "For Researchers"
+    },
+    ": Dive into cutting-edge research with a focus on trustworthiness in AI during Phase 2—an essential frontier in the field.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker (15).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "For ML Engineers"
+    },
+    ": Enhance your skills with hands-on experience in deploying AI products and addressing real-world challenges.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "👨‍💻",
+     "document_id": "stickers/AnimatedSticker (2).tgs"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "For Kaggle Masters"
+    },
+    ": Embrace an innovative and unparalleled challenge that will elevate your expertise to new heights.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🎓",
+     "document_id": "stickers/sticker (12).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "For Students:"
+    },
+    " Bridge the gap between theory and practice, enhance your problem-solving skills, and build a standout resume.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🫥",
+     "document_id": "stickers/AnimatedSticker (3).tgs"
+    },
+    " Advance your knowledge and proficiency in the evolving AI landscape with the Rayan contest.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Learn more about the Rayan contest and register in our website: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/auth/signup"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Scientific Advantages of the Rayan Contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "💡",
+     "document_id": "stickers/sticker (17).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "For Researchers"
+    },
+    {
+     "type": "plain",
+     "text": ": Dive into cutting-edge research with a focus on trustworthiness in AI during Phase 2—an essential frontier in the field.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker (15).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "For ML Engineers"
+    },
+    {
+     "type": "plain",
+     "text": ": Enhance your skills with hands-on experience in deploying AI products and addressing real-world challenges.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👨‍💻",
+     "document_id": "stickers/AnimatedSticker (2).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "For Kaggle Masters"
+    },
+    {
+     "type": "plain",
+     "text": ": Embrace an innovative and unparalleled challenge that will elevate your expertise to new heights.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎓",
+     "document_id": "stickers/sticker (12).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "For Students:"
+    },
+    {
+     "type": "plain",
+     "text": " Bridge the gap between theory and practice, enhance your problem-solving skills, and build a standout resume.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🫥",
+     "document_id": "stickers/AnimatedSticker (3).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Advance your knowledge and proficiency in the evolving AI landscape with the Rayan contest.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Learn more about the Rayan contest and register in our website: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/auth/signup"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "type": "message",
+   "date": "2024-08-15T14:00:04",
+   "date_unixtime": "1723717804",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Get ready for the Rayan International AI Contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    " As we approach the Rayan International AI Contest, it's important to keep track of the critical dates and milestones. Our roadmap banner guides you through the timeline of each competition phase, helping you plan and participate effectively.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    " Stay tuned and make sure you’re prepared to showcase your AI skills at every stage! Good luck to all participants! ",
+    {
+     "type": "custom_emoji",
+     "text": "🚀",
+     "document_id": "stickers/AnimatedSticker (5).tgs"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Visit our website for more information: ",
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/auth/signup"
+    },
+    " \n",
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (6).tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (7).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Get ready for the Rayan International AI Contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    {
+     "type": "plain",
+     "text": " As we approach the Rayan International AI Contest, it's important to keep track of the critical dates and milestones. Our roadmap banner guides you through the timeline of each competition phase, helping you plan and participate effectively.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Stay tuned and make sure you’re prepared to showcase your AI skills at every stage! Good luck to all participants! "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🚀",
+     "document_id": "stickers/AnimatedSticker (5).tgs"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Visit our website for more information: "
+    },
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/auth/signup"
+    },
+    {
+     "type": "plain",
+     "text": " \n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (6).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (7).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "type": "message",
+   "date": "2024-08-19T15:31:11",
+   "date_unixtime": "1724068871",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan AI Contest: The Journey Begins!"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker (15).webp"
+    },
+    " Get ready for an exciting competition that challenges the brightest minds in AI! \n\n",
+    {
+     "type": "custom_emoji",
+     "text": "1️⃣",
+     "document_id": "stickers/sticker (3).webp"
+    },
+    {
+     "type": "bold",
+     "text": " Screening Phase"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "💻",
+     "document_id": "stickers/sticker (19).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Online"
+    },
+    " \n",
+    {
+     "type": "custom_emoji",
+     "text": "🎛",
+     "document_id": "stickers/sticker (2).webp"
+    },
+    " +200 International Teams\n",
+    {
+     "type": "custom_emoji",
+     "text": "⚡️",
+     "document_id": "stickers/AnimatedSticker (8).tgs"
+    },
+    " Tackle 4 key questions to increase your chance to advance.\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    " Only the top 100-150 teams will advance to the next phase.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "2️⃣",
+     "document_id": "stickers/sticker (4).webp"
+    },
+    {
+     "type": "bold",
+     "text": "Main Phase"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "💻",
+     "document_id": "stickers/sticker (19).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Online"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "⚡️",
+     "document_id": "stickers/AnimatedSticker (8).tgs"
+    },
+    " 2 Questions focused on Trustworthiness in Deep Learning.\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    " The competition heats up! Only the top 10 teams will move forward.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "3️⃣",
+     "document_id": "stickers/sticker (5).webp"
+    },
+    {
+     "type": "bold",
+     "text": "Presentation Phase"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "💻",
+     "document_id": "stickers/sticker (19).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "In-Person"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "⚡️",
+     "document_id": "stickers/AnimatedSticker (8).tgs"
+    },
+    " Top 10 Teams present their Main Phase solution to a jury\n",
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/AnimatedSticker (9).tgs"
+    },
+    " Showcase your solutions in theory and practice.\n",
+    {
+     "type": "custom_emoji",
+     "text": "🎁",
+     "document_id": "stickers/sticker (6).webp"
+    },
+    " Impress the jury and claim your place among the best!\n\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Visit our website for more information: ",
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan AI Contest: The Journey Begins!"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker (15).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Get ready for an exciting competition that challenges the brightest minds in AI! \n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "1️⃣",
+     "document_id": "stickers/sticker (3).webp"
+    },
+    {
+     "type": "bold",
+     "text": " Screening Phase"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "💻",
+     "document_id": "stickers/sticker (19).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Online"
+    },
+    {
+     "type": "plain",
+     "text": " \n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎛",
+     "document_id": "stickers/sticker (2).webp"
+    },
+    {
+     "type": "plain",
+     "text": " +200 International Teams\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⚡️",
+     "document_id": "stickers/AnimatedSticker (8).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Tackle 4 key questions to increase your chance to advance.\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Only the top 100-150 teams will advance to the next phase.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "2️⃣",
+     "document_id": "stickers/sticker (4).webp"
+    },
+    {
+     "type": "bold",
+     "text": "Main Phase"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "💻",
+     "document_id": "stickers/sticker (19).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Online"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⚡️",
+     "document_id": "stickers/AnimatedSticker (8).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " 2 Questions focused on Trustworthiness in Deep Learning.\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " The competition heats up! Only the top 10 teams will move forward.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "3️⃣",
+     "document_id": "stickers/sticker (5).webp"
+    },
+    {
+     "type": "bold",
+     "text": "Presentation Phase"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "💻",
+     "document_id": "stickers/sticker (19).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "In-Person"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⚡️",
+     "document_id": "stickers/AnimatedSticker (8).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Top 10 Teams present their Main Phase solution to a jury\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/AnimatedSticker (9).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Showcase your solutions in theory and practice.\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎁",
+     "document_id": "stickers/sticker (6).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Impress the jury and claim your place among the best!\n\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Visit our website for more information: "
+    },
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "type": "message",
+   "date": "2024-08-25T15:30:45",
+   "date_unixtime": "1724587245",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "What happens in the Screening Phase!"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔽",
+     "document_id": "stickers/sticker (20).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "The Rayan AI Contest "
+    },
+    "consists of three distinct phases. Here's what to expect in the ",
+    {
+     "type": "bold",
+     "text": "1st Phase"
+    },
+    ":\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "📌",
+     "document_id": "stickers/sticker (21).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Objective"
+    },
+    ": Evaluate fundamental knowledge in Machine Learning and Deep Learning.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🎛",
+     "document_id": "stickers/sticker (2).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Format"
+    },
+    ": You will have to tackle 3 technical questions.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/sticker (22).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Duration"
+    },
+    ": 7 days\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗃",
+     "document_id": "stickers/sticker (23).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Resources"
+    },
+    ": Conventional computing resources, such as a PC with 24GB RAM, are sufficient to complete this phase.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🛡",
+     "document_id": "stickers/sticker (24).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Submission"
+    },
+    ": You are required to design and submit a model for evaluation.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Assessment"
+    },
+    ": Your submissions will be meticulously reviewed by our panel of judges.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Visit our website for more information: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "What happens in the Screening Phase!"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔽",
+     "document_id": "stickers/sticker (20).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "The Rayan AI Contest "
+    },
+    {
+     "type": "plain",
+     "text": "consists of three distinct phases. Here's what to expect in the "
+    },
+    {
+     "type": "bold",
+     "text": "1st Phase"
+    },
+    {
+     "type": "plain",
+     "text": ":\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📌",
+     "document_id": "stickers/sticker (21).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Objective"
+    },
+    {
+     "type": "plain",
+     "text": ": Evaluate fundamental knowledge in Machine Learning and Deep Learning.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎛",
+     "document_id": "stickers/sticker (2).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Format"
+    },
+    {
+     "type": "plain",
+     "text": ": You will have to tackle 3 technical questions.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/sticker (22).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Duration"
+    },
+    {
+     "type": "plain",
+     "text": ": 7 days\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗃",
+     "document_id": "stickers/sticker (23).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Resources"
+    },
+    {
+     "type": "plain",
+     "text": ": Conventional computing resources, such as a PC with 24GB RAM, are sufficient to complete this phase.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🛡",
+     "document_id": "stickers/sticker (24).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Submission"
+    },
+    {
+     "type": "plain",
+     "text": ": You are required to design and submit a model for evaluation.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Assessment"
+    },
+    {
+     "type": "plain",
+     "text": ": Your submissions will be meticulously reviewed by our panel of judges.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Visit our website for more information: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "type": "message",
+   "date": "2024-08-26T15:31:04",
+   "date_unixtime": "1724673664",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "What happens in the Main Phase!"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "📌",
+     "document_id": "stickers/sticker (21).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Objective"
+    },
+    ": Delve into advanced concepts, focusing on three critical aspects of Trustworthiness in AI. \n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🎛",
+     "document_id": "stickers/sticker (2).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Format"
+    },
+    ": Participants will address 3 advanced, science-driven questions.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/sticker (22).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Duration"
+    },
+    ": 1.5 months\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗃",
+     "document_id": "stickers/sticker (23).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Resources"
+    },
+    ": Similar computing resources as the Screening Phase are recommended.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🛡",
+     "document_id": "stickers/sticker (24).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Submission"
+    },
+    ": Depending on the specific question, participants will submit either their code or their model.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔼",
+     "document_id": "stickers/sticker (26).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Outcome"
+    },
+    ": Participants will deepen their understanding of AI trustworthiness while advancing their technical knowledge.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    "Register now and stay informed about the latest updates: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/"
+    },
+    " \n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "What happens in the Main Phase!"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📌",
+     "document_id": "stickers/sticker (21).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Objective"
+    },
+    {
+     "type": "plain",
+     "text": ": Delve into advanced concepts, focusing on three critical aspects of Trustworthiness in AI. \n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎛",
+     "document_id": "stickers/sticker (2).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Format"
+    },
+    {
+     "type": "plain",
+     "text": ": Participants will address 3 advanced, science-driven questions.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/sticker (22).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Duration"
+    },
+    {
+     "type": "plain",
+     "text": ": 1.5 months\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗃",
+     "document_id": "stickers/sticker (23).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Resources"
+    },
+    {
+     "type": "plain",
+     "text": ": Similar computing resources as the Screening Phase are recommended.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🛡",
+     "document_id": "stickers/sticker (24).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Submission"
+    },
+    {
+     "type": "plain",
+     "text": ": Depending on the specific question, participants will submit either their code or their model.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔼",
+     "document_id": "stickers/sticker (26).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Outcome"
+    },
+    {
+     "type": "plain",
+     "text": ": Participants will deepen their understanding of AI trustworthiness while advancing their technical knowledge.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": "Register now and stay informed about the latest updates: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": " \n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "type": "message",
+   "date": "2024-08-31T15:30:19",
+   "date_unixtime": "1725105619",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Prepare for the Rayan AI Contest! "
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "📖",
+     "document_id": "stickers/AnimatedSticker (10).tgs"
+    },
+    " It’s the perfect moment to start leveling up your AI game! Whether you're a seasoned pro or just beginning your journey into the world of AI, these resources will set you on the path to success:\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": "Foundations of Deep Learning"
+    },
+    " | ",
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://www.cs.umd.edu/class/fall2022/cmsc828W/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": "Transferable Visual Models From Natural Language Supervision"
+    },
+    " | ",
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://arxiv.org/abs/2103.00020"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation"
+    },
+    " | ",
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://arxiv.org/abs/2201.12086"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models "
+    },
+    "| ",
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://arxiv.org/abs/2301.12597"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": " Backdoor Learning: A Survey | "
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://drive.google.com/file/d/1NXizBtWHWoTLbGWc6B_NOeg5KpBnblvn/view?usp=sharing"
+    },
+    "\n",
+    {
+     "type": "bold",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": " RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection"
+    },
+    " | ",
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://drive.google.com/file/d/19PcHSHkdhP0yBoQ8cqMEuDhi80czkvdX/view?usp=sharing"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Anomaly Detection in Em Images - A Zero-Shot Learning Approach | "
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://drive.google.com/file/d/1-QMyFuXX8GtHYOJLozxoD5h-9IWSljj2/view?usp=sharing"
+    },
+    {
+     "type": "bold",
+     "text": "\n "
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "A Survey of Zero-Shot Learning: Settings, Methods, and Applications"
+    },
+    " | ",
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://drive.google.com/file/d/1cyHVnXqRHJz3P8_jOVRUfhvcfqotsMem/view?usp=sharing"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": " Medical Image Classification Using Generalized Zero Shot Learning"
+    },
+    " | ",
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://drive.google.com/file/d/1sgMLR7mC5bWqoVsi_wF7HIhRE1n53IF1/view?usp=sharing"
+    },
+    "\n  \n",
+    {
+     "type": "custom_emoji",
+     "text": "⚡️",
+     "document_id": "stickers/AnimatedSticker (8).tgs"
+    },
+    " Equip yourself with this knowledge, and you're on your way to dominating the contest! Wishing all participants the best of luck!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " For more information, visit our website: ",
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Prepare for the Rayan AI Contest! "
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📖",
+     "document_id": "stickers/AnimatedSticker (10).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " It’s the perfect moment to start leveling up your AI game! Whether you're a seasoned pro or just beginning your journey into the world of AI, these resources will set you on the path to success:\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": "Foundations of Deep Learning"
+    },
+    {
+     "type": "plain",
+     "text": " | "
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://www.cs.umd.edu/class/fall2022/cmsc828W/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": "Transferable Visual Models From Natural Language Supervision"
+    },
+    {
+     "type": "plain",
+     "text": " | "
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://arxiv.org/abs/2103.00020"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation"
+    },
+    {
+     "type": "plain",
+     "text": " | "
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://arxiv.org/abs/2201.12086"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models "
+    },
+    {
+     "type": "plain",
+     "text": "| "
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://arxiv.org/abs/2301.12597"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": " Backdoor Learning: A Survey | "
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://drive.google.com/file/d/1NXizBtWHWoTLbGWc6B_NOeg5KpBnblvn/view?usp=sharing"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "bold",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": " RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection"
+    },
+    {
+     "type": "plain",
+     "text": " | "
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://drive.google.com/file/d/19PcHSHkdhP0yBoQ8cqMEuDhi80czkvdX/view?usp=sharing"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Anomaly Detection in Em Images - A Zero-Shot Learning Approach | "
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://drive.google.com/file/d/1-QMyFuXX8GtHYOJLozxoD5h-9IWSljj2/view?usp=sharing"
+    },
+    {
+     "type": "bold",
+     "text": "\n "
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "A Survey of Zero-Shot Learning: Settings, Methods, and Applications"
+    },
+    {
+     "type": "plain",
+     "text": " | "
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://drive.google.com/file/d/1cyHVnXqRHJz3P8_jOVRUfhvcfqotsMem/view?usp=sharing"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔹",
+     "document_id": "stickers/AnimatedSticker (11).tgs"
+    },
+    {
+     "type": "bold",
+     "text": " Medical Image Classification Using Generalized Zero Shot Learning"
+    },
+    {
+     "type": "plain",
+     "text": " | "
+    },
+    {
+     "type": "text_link",
+     "text": "Link",
+     "href": "https://drive.google.com/file/d/1sgMLR7mC5bWqoVsi_wF7HIhRE1n53IF1/view?usp=sharing"
+    },
+    {
+     "type": "plain",
+     "text": "\n  \n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⚡️",
+     "document_id": "stickers/AnimatedSticker (8).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Equip yourself with this knowledge, and you're on your way to dominating the contest! Wishing all participants the best of luck!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " For more information, visit our website: "
+    },
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "type": "message",
+   "date": "2024-09-03T16:31:23",
+   "date_unixtime": "1725368483",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "The Grand Finale: Presentation Phase of the Rayan AI Contest! "
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "📌",
+     "document_id": "stickers/sticker (21).webp"
+    },
+    " In the upcoming Presentation Phase of the contest, the top 10 teams that have successfully advanced through Phase 2 will prepare to present their work in person.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    " In this crucial Presentation Phase, each team will showcase their project before a distinguished panel of professors. The judges will closely examine every detail, evaluating the creativity, technical brilliance, and real-world impact of each solution.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🎉",
+     "document_id": "stickers/sticker (27).webp"
+    },
+    " Once all presentations are complete, the top three teams will be announced and rewarded for their exceptional achievements. \n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🙂",
+     "document_id": "stickers/sticker (28).webp"
+    },
+    " Best of luck to all the finalists!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Stay tuned for the latest updates and register on our website: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (6).tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (7).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "The Grand Finale: Presentation Phase of the Rayan AI Contest! "
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📌",
+     "document_id": "stickers/sticker (21).webp"
+    },
+    {
+     "type": "plain",
+     "text": " In the upcoming Presentation Phase of the contest, the top 10 teams that have successfully advanced through Phase 2 will prepare to present their work in person.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    {
+     "type": "plain",
+     "text": " In this crucial Presentation Phase, each team will showcase their project before a distinguished panel of professors. The judges will closely examine every detail, evaluating the creativity, technical brilliance, and real-world impact of each solution.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎉",
+     "document_id": "stickers/sticker (27).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Once all presentations are complete, the top three teams will be announced and rewarded for their exceptional achievements. \n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🙂",
+     "document_id": "stickers/sticker (28).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Best of luck to all the finalists!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Stay tuned for the latest updates and register on our website: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (6).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (7).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "type": "message",
+   "date": "2024-09-07T15:31:49",
+   "date_unixtime": "1725710509",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Meet the Esteemed Judges of the Rayan AI Contest!"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    " We are thrilled to introduce the brilliant minds who will be evaluating your assignments in the Rayan AI Contest. Each of these distinguished judges has made remarkable contributions to the field of Artificial Intelligence, with numerous publications in top-tier conferences.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (12).tgs"
+    },
+    " Take a moment to appreciate the respected judges who will be guiding this competition, as shown in the image below.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    " We are honored to have these experts who are all trailblazers in Artificial Intelligence on board and excited to see the brilliant work you all will showcase in the contest!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⭐️",
+     "document_id": "stickers/sticker (29).webp"
+    },
+    " Good luck to all participants!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Register now in our website: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (6).tgs"
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (7).tgs"
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Meet the Esteemed Judges of the Rayan AI Contest!"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " We are thrilled to introduce the brilliant minds who will be evaluating your assignments in the Rayan AI Contest. Each of these distinguished judges has made remarkable contributions to the field of Artificial Intelligence, with numerous publications in top-tier conferences.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (12).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Take a moment to appreciate the respected judges who will be guiding this competition, as shown in the image below.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    {
+     "type": "plain",
+     "text": " We are honored to have these experts who are all trailblazers in Artificial Intelligence on board and excited to see the brilliant work you all will showcase in the contest!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⭐️",
+     "document_id": "stickers/sticker (29).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Good luck to all participants!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register now in our website: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (6).tgs"
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📱",
+     "document_id": "stickers/AnimatedSticker (7).tgs"
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  }
+ ]
+}

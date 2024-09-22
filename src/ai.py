@@ -142,8 +142,11 @@ If you don't know the answer to a question just say something like 'I don't know
         result = self.tagging_chain.invoke({"input": inp})
         return result.problem
 
-    def get_contest_info(self, inp):
-        history = FileChatMessageHistory("his")
+    def get_contest_info(self, inp, id):
+        path = "../history/" + str(id)
+        if not os.path.exists(path):
+            os.mkdir(path)
+        history = FileChatMessageHistory(path + "/his")
         history.add_user_message(inp)
         messages = history.messages
         response = self.contest_info_chain.invoke({"messages": messages})

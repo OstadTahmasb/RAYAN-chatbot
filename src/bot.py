@@ -9,9 +9,6 @@ from telebot.types import ReplyKeyboardMarkup
 load_dotenv()
 bot = telebot.TeleBot(os.getenv('BOT_TOKEN'))
 
-national_code = 0
-email = ""
-
 ai = AI()
 
 info_keyboard = ReplyKeyboardMarkup(one_time_keyboard=True, resize_keyboard=True)
@@ -20,7 +17,7 @@ info_keyboard.add("دوره های آموزشی", "مسابقه")
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    text = "سلام وقت بخیر!\nبه بات پشتیبان مسابقه هوش مصنوعی رایان خوش اومدین!\nلطفا اگر مشکلی براتون به وجود اومده از /support استفاده کنید و اگر سوالی در مورد دوره ها یا مسابقه دارید /info رو بزنید.\nممنونیم!"
+    text = "سلام وقت بخیر!\nبه بات پشتیبان مسابقه هوش مصنوعی رایان خوش اومدین!\nلطفا اگر مشکلی براتون به وجود اومده از /support استفاده کنید و اگر سوالی در مورد مسابقه دارید /info رو بزنید.\nممنونیم!"
     bot.send_message(message.chat.id, text, parse_mode="Markdown")
     # bot.register_next_step_handler(msg, handler)
 
@@ -35,34 +32,33 @@ def start(message):
 def support(message):
     text = "لطفا کدملی خودتون رو با حروف انگلیسی وارد بفرمایید:"
     msg = bot.send_message(message.chat.id, text)
-    bot.register_next_step_handler(msg, national_code_getter)
+    data = {"chat_id": message.chat.id, "national_id": 0, "email": "a", "problem": "a"}
+    bot.register_next_step_handler(msg, national_code_getter, data)
 
 
-def national_code_getter(message):
-    global national_code
-    national_code = message.text
+def national_code_getter(message, data):
+    data['national_id'] = message.text
     text = "و همچنین ایمیلی که با اون توی دوره ثبت نام کردید:"
     msg = bot.send_message(message.chat.id, text)
-    bot.register_next_step_handler(msg, email_getter)
+    bot.register_next_step_handler(msg, email_getter, data)
 
 
-def email_getter(message):
-    global email
-    email = message.text
+def email_getter(message, data):
+    data['email'] = message.text
     text = "حالا بفرمایید به چه مشکلی برخوردید:"
     msg = bot.send_message(message.chat.id, text)
-    bot.register_next_step_handler(msg, problem_handler)
+    bot.register_next_step_handler(msg, problem_handler, data)
 
 
-def problem_handler(message):
-    tag = ai.tag(message.text)
-    bot.send_message(os.getenv('SUPPORT_CHANNEL'),
-                     str(message.chat.id) + '\n' + str(national_code) + '\n' + str(email) + '\n' + tag)
+def problem_handler(message, data):
+    # data['problem'] = ai.tag(message.text)
+    data['problem'] = message.text
+    bot.send_message(os.getenv('SUPPORT_CHANNEL'), str(data))
     text = "ممنونم! مشکل شما ثبت شد. همکارانم در پشتیبانی به زودی به اون رسیدگی خواهند کرد و نتیجه همینجا به شما اعلام می شود."
     bot.send_message(message.chat.id, text)
 
 
-@bot.message_handler(commands=['info'])
+# @bot.message_handler(commands=['info'])
 def info(message):
     text = "در رابطه با کدوم مورد سوال دارید؟ از بین دو گزینه زیر انتخاب کنید:"
     msg = bot.reply_to(message, text, reply_markup=info_keyboard)
@@ -80,9 +76,10 @@ def info_classifier(message):
         bot.register_next_step_handler(msg, courses_info_handler)
 
 
+@bot.message_handler()
 def contest_info_handler(message):
     print(message)
-    response = ai.get_contest_info(message.text)
+    response = ai.get_contest_info(message.text, message.chat.id)
     print(response)
     bot.send_message(message.chat.id, response['response'])
 
