@@ -8,7 +8,7 @@ For Kaggle Masters: A new kind of challenge.
 For Students: Bridge the gap between theory and practice, enhance your problem-solving skills, and build a standout resume.
 
 
-$20,000, $10,000, and $5,000 for the top three teams. The top 10 teams will be invited to Iran, and all travel and hotel expenses will be fully covered by the contest.
+$20,000, $10,000, and $5,000 for the top three teams. The top 10 teams will be invited to Iran, and all travel and hotel expenses will be fully covered by the contest. We are also taken into consideration of all of the safety matters and we are guaranteed you a safe and sound trip to Iran, which is one the most beautiful and diverse countries in the world with a wide range of cultural and historical heritage and sights.
 
 
 As you may know, few competitions have been held in the field of AI trustworthiness and participating in this contest can help you become familiar with the related concepts theoretically and practically.
@@ -29,7 +29,7 @@ Dr. Sharifi Zarchi: President of the International Computer Olympiad Committee a
 Contest is held through 3 phases:
 Phase 1 (Screening Phase): Virtual | with around 200 Iranian teams and 200 international teams or more. There will be approximately 4 simple questions to assess team qualifications. Around 100 or 150 top teams will advance.
 Phase 2 (Main Phase): Virtual | The main contest with two questions focused on trustworthiness in deep learning. Ten teams will advance from this phase.
-Phase 3 (Presentation Phase): In-person | The top 10 teams from the previous phase will come to Tehran to present their solutions both theoretically and practically to the judging panel.
+Phase 3 (Presentation Phase): In-person | The top 10 teams from the previous phase will come to Tehran to present their solutions both theoretically and practically to the judging panel. The top 3 teams will be prized.
 
 
 You should have a general understanding of Deep Learning and the concept of Trustworthiness in AI, and It’s good to have these prior knowledge for participating; but if not, you can take part in the related courses held by the Rayan team:
@@ -40,17 +40,171 @@ Knowing details about these topics could be advantageous for you: Adversarial Ro
 
 This is the schedule of Rayan contest:
 Phase 1 (Screening Phase): October 17th to October 21st, 2024
-Phase 2 (Main Phase): October 24th to December 17th, 2024
-Phase 3 (Presentation Phase): February 3rd, 2025
+Phase 2 (Main Phase): October 24th to December 5th, 2024
+Phase 3 (Presentation/final Phase): February 3rd, 2025
 
 
-For registering the contest, you should go to the contest website on ai.rayan.global . participation in the contest is completely free of charge.
+For registering the contest, you should go to the contest website on ai.rayan.global . participation in the contest is completely free of charge. You can sign up for the event by clicking the sign up button located at the top right of the main page. If you have any other problem signing up or loggingin, you can check out our video guide on how to sign up/login in this address: https://t.me/Rayan_AI_Contest/26. If you have any other problems regarding this issue you can contact our support account in telegram, linkedin or send an email to rayanaicontest@gmail.com explaining the issue you are facing.
+
+If you forget you password please contact our support account in telegram, linkedin or send an email to rayanaicontest@gmail.com explaining the issue you are facing and containing you username.
 
 
-The participants should form teams of at least 2 members to compete. The first 2 phases of the contest will be online. The final phase will be held in-person in Tehran, featuring the top 10 teams.
+The participants should form teams of at least 1 members to compete. The first 2 phases of the contest will be online. The final phase will be held in-person in Tehran, featuring the top 10 teams.
 
 
 You can raise your questions or issues by visiting the event support account (https://t.me/rayanai_info) in telegram; we will respond to you as soon as possible.
 
 
 By following the Telegram channel (https://t.me/Rayan_AI_Contest) and the Website (https://micro.ce.sharif.edu/ai-contest), you will be informed of the event's announcements.
+
+Each team can size between 1 to 4 members. You can team up via team tab in your dashboard. 
+
+How to make a team/ join a team?
+you'll be able to make a team in dashboard. If you want to make one, select a name in "make a team" section  in the "team" tab in the dashboard. Then give you teams, code to you other team members. After submitting, you can "approve" him/her to join. If you want to join a team, get the code from the team maker and enter it in the "join a team" section in the "team" tab. After his/her approval , you'll be joining the team.
+
+You can fill in all your information in the personal info tab in your dashboard.
+
+The questions of phase 1 and 2 will be accessible from the dashboard in the challenge tab. You can also upload/submit your code and answer in that area. You have access to the live leaderboard where you can see your current state compared to the other teams. 
+
+You can see our privacy policy statement in ai.rayan.global (events only official website) footer. 
+
+If you want to collaborate or support with us in holding Rayan AI event, you can contact us via events official mail: rayanaicontest@gmail.com
+
+Can I attend the event virtually/remotely? Yes you can! The 2 phases of the event is fully remote and virtual. The 3rd phase is in person but if you have a specific problem with traveling to iran you can email us at rayanaicontest@gmail.com and we can work out a solution. Consider that all of your trip expenses and safety matters will be covered by Rayan AI organisation team.
+
+How do you judge the submissions/code/winner? In phase 1 and 2, you will be judge by an online judge provided by the Rayan AI Scientific team. On the 3rd phase your questions will be judged in person by our esteemed judges from all around the world.
+
+Do i need any special hardware/system for participating this event? What are the system requirements for the event? All of the question of Rayan Ai is design, having system and hardware requirements in mind. As a result all of the question are solvable by light system and hardware so you don't have to worry about the system/hardware requirements and you can focus on solving the problem.
+
+Do I need a team to participate in Rayan AI? No. Although you have to make a team in the “team” tab in your dashboard, the team size can be 1 person. So you can be your one man army. 
+
+Is my personal information secure? As mentioned in our privacy policy, non of your personal data would be sold or misused in any other way out of the events context. Here you can have access to our privacy policy: https://ai.rayan.global/privacy-policy
+
+How can I contact you? The quickest way to reach out to us is to email us at rayanaicontest@gmail.com. You can talk with us in our telegram channel support at t.me/rayanai_info or messaging us at our linkedin page.
+
+Is Rayan AI / event free? Do I have to pay an entrance fee? Rayan AI is completely free of any charge in any of its phases. 
+
+Rayan International AI Contest
+
+We are glad to introduce the Rayan International AI Contest. The main goal of this contest is to promote Trustworthiness in Deep Learning. It provides an opportunity for an assessment of individuals’ talents, who are into AI worldwide.
+
+Contest Phases
+1. Screening Phase
+This is the beginning phase and the more capable participants will be selected to continue this interesting journey.
+2. Main Phase
+This is the main phase in which you compete with highly capable enthusiasts of AI.
+3. Presentation Phase
+In this phase, the top 10 teams will present their Phase 2 solutions in-person to the panel of judges in Iran.
+
+Prizes
+1st team: $20,000
+2nd team: $10,000
+3rd team: $5,000
+
+Related Subjects
+• Adversarial Training
+• Poisoning
+
+Publishing Article
+Rayan will publish an article in a reputable journal highlighting the achievements of the top 5 teams, featuring the team members as authors. This approach mirrors previous examples such as Midog (https://midog2022.grand-challenge.org/), Data Science Bowl 2018 (https://www.kaggle.com/c/data-science-bowl-2018), and Grand Challenge (https://grand-challenge.org/).
+
+Top Prizes
+The top 3 teams will be rewarded with a share of a 35,000$ prize pool, recognizing their outstanding achievements and contributions. The prize distribution will be as follows:
+1st team: $20,000
+2nd team: $10,000
+3rd team: $5,000
+
+Travel Opportunities
+The top 10 teams will have the unique opportunity to travel to Iran, with full financial support provided by Rayan. This support will enable them to present their innovative solutions in-person.
+
+Challenge and Competition
+Rayan provides you with the opportunity to sharpen your AI and problem-solving skills through this competition. You can take advantage of the chance to showcase your expertise in the contest.
+
+Required knowledge for the Rayan contest
+For the Screening Phase, you should have a basic understanding of Deep Learning. For the Main Phase, you will need a strong grasp of Trustworthiness in AI.
+
+Detailed subjects that will be advantageous for you to understand are as follows:
+    • Adversarial Robustness
+    • Model Poisoning
+    • Anomaly Detection
+    • Spurious Correlation
+    • Distribution Shift
+
+Scientific Advantages of the Rayan Contest For Researchers: Dive into cutting-edge research with a focus on trustworthiness in AI during Phase 2—an essential frontier in the field.
+
+Scientific Advantages of the Rayan Contest For ML Engineers: Enhance your skills with hands-on experience in deploying AI products and addressing real-world challenges.
+
+Scientific Advantages of the Rayan Contest For Kaggle Masters: Embrace an innovative and unparalleled challenge that will elevate your expertise to new heights.
+
+Scientific Advantages of the Rayan Contest For Students: Bridge the gap between theory and practice, enhance your problem-solving skills, and build a standout resume.
+
+Screening Phase
+Online
++200 International Teams
+Tackle 4 key questions to increase your chance to advance.
+Only the top 100-150 teams will advance to the next phase.
+
+2 Main Phase
+Online
+2 Questions focused on Trustworthiness in Deep Learning.
+The competition heats up! Only the top 10 teams will move forward.
+
+Presentation Phase
+In-Person
+Top 10 Teams present their Main Phase solution to a jury
+Showcase your solutions in theory and practice.
+Impress the jury and claim your place among the best!
+
+What happens in the Screening Phase!
+The Rayan AI Contest consists of three distinct phases. Here's what to expect in the 1st Phase:
+Objective: Evaluate fundamental knowledge in Machine Learning and Deep Learning.
+Format: You will have to tackle 3 technical questions.
+Duration: 7 days
+Resources: Conventional computing resources, such as a PC with 24GB RAM, are sufficient to complete this phase.
+Submission: You are required to design and submit a model for evaluation.
+Assessment: Your submissions will be meticulously reviewed by our panel of judges.
+
+What happens in the Main Phase!
+Objective: Delve into advanced concepts, focusing on three critical aspects of Trustworthiness in AI.
+Format: Participants will address 3 advanced, science-driven questions.
+Duration: 1.5 months
+Resources: Similar computing resources as the Screening Phase are recommended.
+Submission: Depending on the specific question, participants will submit either their code or their model.
+Outcome: Participants will deepen their understanding of AI trustworthiness while advancing their technical knowledge.
+
+Prepare for the Rayan AI Contest!
+It’s the perfect moment to start leveling up your AI game! Whether you're a seasoned pro or just beginning your journey into the world of AI, these resources will set you on the path to success:
+Foundations of Deep Learning | Link (https://www.cs.umd.edu/class/fall2022/cmsc828W/)
+Transferable Visual Models From Natural Language Supervision | Link (https://arxiv.org/abs/2103.00020)
+BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation | Link (https://arxiv.org/abs/2201.12086)
+BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models | Link (https://arxiv.org/abs/2301.12597)
+Backdoor Learning: A Survey | Link (https://drive.google.com/file/d/1NXizBtWHWoTLbGWc6B_NOeg5KpBnblvn/view?usp=sharing)
+RealNet: A Feature Selection Network with Realistic Synthetic Anomaly for Anomaly Detection | Link (https://drive.google.com/file/d/19PcHSHkdhP0yBoQ8cqMEuDhi80czkvdX/view?usp=sharing)
+Anomaly Detection in Em Images - A Zero-Shot Learning Approach | Link (https://drive.google.com/file/d/1-QMyFuXX8GtHYOJLozxoD5h-9IWSljj2/view?usp=sharing)
+A Survey of Zero-Shot Learning: Settings, Methods, and Applications | Link (https://drive.google.com/file/d/1cyHVnXqRHJz3P8_jOVRUfhvcfqotsMem/view?usp=sharing)
+Medical Image Classification Using Generalized Zero Shot Learning | Link (https://drive.google.com/file/d/1sgMLR7mC5bWqoVsi_wF7HIhRE1n53IF1/view?usp=sharing)
+
+The Grand Finale: Presentation Phase of the Rayan AI Contest!
+In the upcoming Presentation Phase of the contest, the top 10 teams that have successfully advanced through Phase 2 will prepare to present their work in person.
+In this crucial Presentation Phase, each team will showcase their project before a distinguished panel of professors. The judges will closely examine every detail, evaluating the creativity, technical brilliance, and real-world impact of each solution.
+Once all presentations are complete, the top three teams will be announced and rewarded for their exceptional achievements.
+
+Organizers of Rayan contest
+Rayan international AI contest is organized by Computer Engineering Department of Sharif University of Technology (SUT).
+As the leading center for Computer Science (CS) education at SUT, the Department offers a diverse range of computer programs and is recognized as one of the top-ranked institutions in both Iran and the region.
+SUT, with a legacy of innovation, has produced leading minds in technology and engineering, driving advancements through its strong focus on research.
+Sharif University of Technology is ranked 1st in Iran for Computer Science and Artificial Intelligence by CSRankings (https://csrankings.org/#/index?all&ir).
+Additionally, SUT holds the top position in Iran across all fields, including Computer Science, according to the QS World University Rankings (https://www.topuniversities.com/world-university-rankings?countries=ir).
+
+Meet the Esteemed Judges of the Rayan AI Contest!
+👤 Mohammad Hossein Rohban (https://www.linkedin.com/in/mohammad-hossein-rohban-75567677/) | Assistant Professor
+👤 Amir Najafi (https://www.linkedin.com/in/amir-najafi-6a202346/) | Assistant Professor
+👤 Hossein Sameti (https://www.linkedin.com/in/hossein-sameti-2289a546/) | Associate Professor
+👤 Mahdieh Soleymani (https://www.linkedin.com/in/mahdieh-soleymani-baghshah-a85068302/) | Associate Professor
+👤 Mahdi Jafari (https://www.linkedin.com/in/mahdijafari/) | Assistant Professor
+👤 Ali Sharifi-Zarchi (https://www.linkedin.com/in/ali-sharifi-zarchi-03944b69/) | Assistant Professor
+👤 Ehsaneddin Asgari (https://www.linkedin.com/in/ehsaneddinasgari/) | Adjunct Professor
+
+Rayan contest; Team formation
+After completing your registration, you can start creating your teams and get ready to compete. Pay attention that each team can have 1 to 4 members.
+A step-by-step guide on how to create your team will soon be available on the Telegram channel to assist you with the process.
