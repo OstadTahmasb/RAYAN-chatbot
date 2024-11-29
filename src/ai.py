@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-from langchain_core.prompts import ChatPromptTemplate, PromptTemplate, MessagesPlaceholder
+from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from langchain_openai import ChatOpenAI
 from langchain_core.pydantic_v1 import BaseModel, Field
 from langchain_core.output_parsers import StrOutputParser
@@ -27,18 +27,17 @@ class AI:
 
     def __init_tagging_chain(self):
         tagging_prompt = ChatPromptTemplate.from_template(
-            """Extract the customer's problem from the passage below.
-        
-The problem can be tagged with one of the following options:
-        
+            """You are a helpful support bot tasked with classifying the customer's issue given in the passage below.
+Classify into one of the following categories:
+
 <<<
 login: customer has problem logging in to classroom or is uninformed about the login credentials
-telegram: customer can't access the telegram channel or can't watch the recorded videos
+telegram: customer can't access the telegram channel or isn't able to watch the recorded videos
 quera: customer can't access the quera(کوئرا، کوورا، کورا) website or doesn't know about the website at all
 >>>
-        
+
 Only extract the properties mentioned in the 'Classification' function.
-        
+       
 Passage:
 {input}"""
         )
@@ -47,9 +46,8 @@ Passage:
 
     def __init_translation_chains(self):
         translation_prompt = ChatPromptTemplate.from_template(
-            """Translate the text in the passage below to American English in a polite tone.
-Also, Extract the language it was written in.
-        
+            """Translate the text in the passage below to American English in a polite tone and extract the language it was written in.
+
 Passage:
 {input}"""
         )
@@ -76,11 +74,6 @@ Passage:
         contest_documents = splitter.split_documents(contest_loader.load())
         contest_vectorstore = FAISS.from_documents(contest_documents, OpenAIEmbeddings())
         self.contest_retriever = contest_vectorstore.as_retriever(K=5)
-
-        # courses_loader = UnstructuredLoader("../data/courses_data.txt")
-        # courses_document = splitter.split_documents(courses_loader.load())
-        # courses_vectorstore = FAISS.from_documents(courses_document, OpenAIEmbeddings())
-        # self.courses_retriever = courses_vectorstore.as_retriever(k=5)
 
     def __init_info_chains(self):
         query_generating_prompt = ChatPromptTemplate.from_messages(
@@ -110,41 +103,13 @@ If you don't know the answer to a question just say something like 'I don't know
         contest_answer_chain = create_stuff_documents_chain(self.llm, contest_answer_prompt)
         self.contest_info_chain = (RunnablePassthrough
                                    .assign(context=(
-                                            query_generating_prompt
-                                            | self.llm
-                                            | StrOutputParser()
-                                            | self.contest_retriever))
+                                        query_generating_prompt
+                                        | self.llm
+                                        | StrOutputParser()
+                                        | self.contest_retriever))
                                    .assign(response=contest_answer_chain))
 
-#         courses_answer_prompt = ChatPromptTemplate.from_messages(
-#             [
-#                 ("system",
-#                  """You are a helpful support bot. You are asked questions about the educational courses held to prepare participants for the RAYAN AI International contest.
-# RAYAN AI International contest is a professional contest held by Sharif University. Contestants from all over the world compete to win cash prizes in a coding contest about Trustworthiness in Machine Learning.
-# Two educational courses are held by Sharif University professors who teach the subjects needed for the contest.
-# Your task is to answer the question only based on the context below and other information already provided to you in the chat.
-# keep a polite tone and answer positively about the contest.
-# If you don't know the answer to a question just say something like 'I don't know' or something similar. Do not make up answers or data from your own or other sources.
-#
-# >>>context
-# {context}
-# <<<
-# """),
-#                 MessagesPlaceholder(variable_name="messages"),
-#             ]
-#         )
-#         courses_answer_chain = create_stuff_documents_chain(self.llm, courses_answer_prompt)
-#         self.courses_info_chain = (RunnablePassthrough
-#                                    .assign(context=
-#                                            query_generating_prompt
-#                                            | self.llm
-#                                            | StrOutputParser()
-#                                            | self.courses_retriever)
-#                                    .assign(response=courses_answer_chain))
-
     def tag(self, inp) -> str:
-        # translation = self.translation_chain.invoke({"input": inp})
-        # result = self.tagging_chain.invoke({"input": translation.translation})
         result = self.tagging_chain.invoke({"input": inp})
         return result.problem
 
@@ -167,13 +132,6 @@ If you don't know the answer to a question just say something like 'I don't know
         history.add_ai_message(response['response'])
         print("\nRESPONSE: ", response['response'])
         return translated_response
-
-    def get_courses_info(self, inp):
-        history = FileChatMessageHistory("his")
-        history.add_user_message(inp)
-        messages = history.messages
-        response = self.courses_info_chain.invoke({"messages": messages})
-        return response
 
 
 class Classification(BaseModel):

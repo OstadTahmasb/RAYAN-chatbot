@@ -3469,10 +3469,468 @@
    ]
   },
   {
-   "id": 22,
+   "id": 25,
    "type": "message",
-   "date": "2024-09-07T15:31:49",
-   "date_unixtime": "1725710509",
+   "date": "2024-09-26T15:33:01",
+   "date_unixtime": "1727352181",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Organizers of Rayan contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🏬",
+     "document_id": "stickers/sticker (29).webp"
+    },
+    " Rayan international AI contest is organized by ",
+    {
+     "type": "bold",
+     "text": "Computer Engineering Department of Sharif University of Technology (SUT)"
+    },
+    ".\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    " As the leading center for Computer Science (CS) education at SUT, the Department offers a diverse range of computer programs and is recognized as one of the top-ranked institutions in both Iran and the region.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "💡",
+     "document_id": "stickers/sticker (17).webp"
+    },
+    " SUT, with a legacy of innovation, has produced leading minds in technology and engineering, driving advancements through its strong focus on research.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔵",
+     "document_id": "stickers/AnimatedSticker (12).tgs"
+    },
+    " Sharif University of Technology is ranked 1st in Iran for Computer Science and Artificial Intelligence by ",
+    {
+     "type": "text_link",
+     "text": "CSRankings",
+     "href": "https://csrankings.org/#/index?all&ir"
+    },
+    ".\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔵",
+     "document_id": "stickers/AnimatedSticker (12).tgs"
+    },
+    " Additionally, SUT holds the top position in Iran across all fields, including Computer Science, according to the ",
+    {
+     "type": "text_link",
+     "text": "QS World University Rankings",
+     "href": "https://www.topuniversities.com/world-university-rankings?countries=ir"
+    },
+    ".\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Register now in our website: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Organizers of Rayan contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🏬",
+     "document_id": "stickers/sticker (29).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Rayan international AI contest is organized by "
+    },
+    {
+     "type": "bold",
+     "text": "Computer Engineering Department of Sharif University of Technology (SUT)"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " As the leading center for Computer Science (CS) education at SUT, the Department offers a diverse range of computer programs and is recognized as one of the top-ranked institutions in both Iran and the region.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "💡",
+     "document_id": "stickers/sticker (17).webp"
+    },
+    {
+     "type": "plain",
+     "text": " SUT, with a legacy of innovation, has produced leading minds in technology and engineering, driving advancements through its strong focus on research.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔵",
+     "document_id": "stickers/AnimatedSticker (12).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Sharif University of Technology is ranked 1st in Iran for Computer Science and Artificial Intelligence by "
+    },
+    {
+     "type": "text_link",
+     "text": "CSRankings",
+     "href": "https://csrankings.org/#/index?all&ir"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔵",
+     "document_id": "stickers/AnimatedSticker (12).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Additionally, SUT holds the top position in Iran across all fields, including Computer Science, according to the "
+    },
+    {
+     "type": "text_link",
+     "text": "QS World University Rankings",
+     "href": "https://www.topuniversities.com/world-university-rankings?countries=ir"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register now in our website: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "type": "message",
+   "date": "2024-09-27T20:00:01",
+   "date_unixtime": "1727454601",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "RegistrationGuide2-compressed.mp4",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 71,
+   "width": 1280,
+   "height": 720,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan contest; Registration guide"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "💬",
+     "document_id": "stickers/AnimatedSticker (13).tgs"
+    },
+    " In this video, we walk you through the registration process for the Rayan contest, making it simple and easy to follow.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " For more details and to register, visit: ",
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan contest; Registration guide"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "💬",
+     "document_id": "stickers/AnimatedSticker (13).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " In this video, we walk you through the registration process for the Rayan contest, making it simple and easy to follow.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " For more details and to register, visit: "
+    },
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "type": "message",
+   "date": "2024-09-28T10:00:36",
+   "date_unixtime": "1727505036",
    "from": "Rayan AI",
    "from_id": "channel2197505070",
    "photo": "(File not included. Change data exporting settings to download.)",
@@ -3497,23 +3955,11 @@
     },
     " We are thrilled to introduce the brilliant minds who will be evaluating your assignments in the Rayan AI Contest. Each of these distinguished judges has made remarkable contributions to the field of Artificial Intelligence, with numerous publications in top-tier conferences.\n\n",
     {
-     "type": "custom_emoji",
-     "text": "✅",
-     "document_id": "stickers/AnimatedSticker (12).tgs"
+     "type": "blockquote",
+     "text": "👤 Mohammad Hossein Rohban | Assistant Professor\n👤 Amir Najafi | Assistant Professor\n👤 Hossein Sameti | Associate Professor\n👤 Mahdieh Soleymani | Associate Professor",
+     "collapsed": false
     },
-    " Take a moment to appreciate the respected judges who will be guiding this competition, as shown in the image below.\n\n",
-    {
-     "type": "custom_emoji",
-     "text": "👥",
-     "document_id": "stickers/sticker (25).webp"
-    },
-    " We are honored to have these experts who are all trailblazers in Artificial Intelligence on board and excited to see the brilliant work you all will showcase in the contest!\n\n",
-    {
-     "type": "custom_emoji",
-     "text": "⭐️",
-     "document_id": "stickers/sticker (29).webp"
-    },
-    " Good luck to all participants!\n\n",
+    "\n\n",
     {
      "type": "custom_emoji",
      "text": "➡️",
@@ -3531,17 +3977,19 @@
      "text": "🌐",
      "document_id": "stickers/sticker (11).webp"
     },
+    " ",
     {
      "type": "text_link",
      "text": "Website",
-     "href": "https://ai.rayan.global/"
+     "href": "http://ai.rayan.global/"
     },
     "\n",
     {
      "type": "custom_emoji",
-     "text": "📱",
-     "document_id": "stickers/AnimatedSticker (6).tgs"
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
     },
+    " ",
     {
      "type": "text_link",
      "text": "Linkedin",
@@ -3550,9 +3998,10 @@
     "\n",
     {
      "type": "custom_emoji",
-     "text": "📱",
-     "document_id": "stickers/AnimatedSticker (7).tgs"
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
     },
+    " ",
     {
      "type": "mention",
      "text": "@Rayan_AI_Contest"
@@ -3587,31 +4036,13 @@
      "text": " We are thrilled to introduce the brilliant minds who will be evaluating your assignments in the Rayan AI Contest. Each of these distinguished judges has made remarkable contributions to the field of Artificial Intelligence, with numerous publications in top-tier conferences.\n\n"
     },
     {
-     "type": "custom_emoji",
-     "text": "✅",
-     "document_id": "stickers/AnimatedSticker (12).tgs"
+     "type": "blockquote",
+     "text": "👤 Mohammad Hossein Rohban | Assistant Professor\n👤 Amir Najafi | Assistant Professor\n👤 Hossein Sameti | Associate Professor\n👤 Mahdieh Soleymani | Associate Professor",
+     "collapsed": false
     },
     {
      "type": "plain",
-     "text": " Take a moment to appreciate the respected judges who will be guiding this competition, as shown in the image below.\n\n"
-    },
-    {
-     "type": "custom_emoji",
-     "text": "👥",
-     "document_id": "stickers/sticker (25).webp"
-    },
-    {
-     "type": "plain",
-     "text": " We are honored to have these experts who are all trailblazers in Artificial Intelligence on board and excited to see the brilliant work you all will showcase in the contest!\n\n"
-    },
-    {
-     "type": "custom_emoji",
-     "text": "⭐️",
-     "document_id": "stickers/sticker (29).webp"
-    },
-    {
-     "type": "plain",
-     "text": " Good luck to all participants!\n\n"
+     "text": "\n\n"
     },
     {
      "type": "custom_emoji",
@@ -3637,9 +4068,13 @@
      "document_id": "stickers/sticker (11).webp"
     },
     {
+     "type": "plain",
+     "text": " "
+    },
+    {
      "type": "text_link",
      "text": "Website",
-     "href": "https://ai.rayan.global/"
+     "href": "http://ai.rayan.global/"
     },
     {
      "type": "plain",
@@ -3647,8 +4082,12 @@
     },
     {
      "type": "custom_emoji",
-     "text": "📱",
-     "document_id": "stickers/AnimatedSticker (6).tgs"
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
     },
     {
      "type": "text_link",
@@ -3661,8 +4100,5706 @@
     },
     {
      "type": "custom_emoji",
-     "text": "📱",
-     "document_id": "stickers/AnimatedSticker (7).tgs"
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "type": "message",
+   "date": "2024-09-28T15:31:17",
+   "date_unixtime": "1727524877",
+   "edited": "2024-10-13T12:23:59",
+   "edited_unixtime": "1728809639",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Meet the Esteemed Judges of the Rayan AI Contest!"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    " We are honored to introduce three other esteemed judges of our panel. Their unique perspectives and extensive experience in Artificial Intelligence will enhance the Rayan AI Contest.\n\n",
+    {
+     "type": "blockquote",
+     "text": "👤 Mahdi Jafari | Assistant Professor\n👤 Ali Sharifi-Zarchi | Assistant Professor\n👤 Ehsaneddin Asgari | Adjunct Professor",
+     "collapsed": false
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Register now in our website: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Meet the Esteemed Judges of the Rayan AI Contest!"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " We are honored to introduce three other esteemed judges of our panel. Their unique perspectives and extensive experience in Artificial Intelligence will enhance the Rayan AI Contest.\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "👤 Mahdi Jafari | Assistant Professor\n👤 Ali Sharifi-Zarchi | Assistant Professor\n👤 Ehsaneddin Asgari | Adjunct Professor",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register now in our website: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "type": "message",
+   "date": "2024-09-30T15:30:36",
+   "date_unixtime": "1727697636",
+   "edited": "2024-10-12T19:47:36",
+   "edited_unixtime": "1728749856",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 905,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/sticker (14).webp"
+    },
+    " Advancing ",
+    {
+     "type": "bold",
+     "text": "Trustworthy AI"
+    },
+    ", hosted by ",
+    {
+     "type": "bold",
+     "text": "Sharif University of Technology"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    " Expand the frontiers of knowledge in Trustworthy AI.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🎁",
+     "document_id": "stickers/sticker (6).webp"
+    },
+    " Over ",
+    {
+     "type": "bold",
+     "text": "$35,000"
+    },
+    " in prizes for top 3 teams\n",
+    {
+     "type": "custom_emoji",
+     "text": "⭐",
+     "document_id": "stickers/sticker (30).webp"
+    },
+    " Top 10 teams' achievements published in a top-tier conference\n\n",
+    {
+     "type": "blockquote",
+     "text": "🗂 Contest phases:\n    1️⃣Screening Phase: Oct 17th - 21st, 2024 | Online\n    2️⃣Main Phase: Oct 24th - Dec 5th, 2024 | Online\n    3️⃣Presentation Phase: Feb 3rd, 2025 | In-Person",
+     "collapsed": false
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "📖",
+     "document_id": "stickers/AnimatedSticker (10).tgs"
+    },
+    " Opportunity to sharpen your AI and problem-solving skills through the competition.\n",
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    " Open to AI enthusiasts, researchers, and innovators worldwide.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔗",
+     "document_id": "stickers/sticker (31).webp"
+    },
+    " Register now for FREE at ",
+    {
+     "type": "link",
+     "text": "ai.rayan.global"
+    },
+    " and form a team of up to 4 members.\n",
+    {
+     "type": "custom_emoji",
+     "text": "💬",
+     "document_id": "stickers/sticker (32).webp"
+    },
+    " Reach out to our ",
+    {
+     "type": "text_link",
+     "text": "support team",
+     "href": "https://t.me/rayanai_info"
+    },
+    " if you encounter any problems.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/sticker (14).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Advancing "
+    },
+    {
+     "type": "bold",
+     "text": "Trustworthy AI"
+    },
+    {
+     "type": "plain",
+     "text": ", hosted by "
+    },
+    {
+     "type": "bold",
+     "text": "Sharif University of Technology"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Expand the frontiers of knowledge in Trustworthy AI.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎁",
+     "document_id": "stickers/sticker (6).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Over "
+    },
+    {
+     "type": "bold",
+     "text": "$35,000"
+    },
+    {
+     "type": "plain",
+     "text": " in prizes for top 3 teams\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⭐",
+     "document_id": "stickers/sticker (30).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Top 10 teams' achievements published in a top-tier conference\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "🗂 Contest phases:\n    1️⃣Screening Phase: Oct 17th - 21st, 2024 | Online\n    2️⃣Main Phase: Oct 24th - Dec 5th, 2024 | Online\n    3️⃣Presentation Phase: Feb 3rd, 2025 | In-Person",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📖",
+     "document_id": "stickers/AnimatedSticker (10).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Opportunity to sharpen your AI and problem-solving skills through the competition.\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Open to AI enthusiasts, researchers, and innovators worldwide.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔗",
+     "document_id": "stickers/sticker (31).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register now for FREE at "
+    },
+    {
+     "type": "link",
+     "text": "ai.rayan.global"
+    },
+    {
+     "type": "plain",
+     "text": " and form a team of up to 4 members.\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "💬",
+     "document_id": "stickers/sticker (32).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Reach out to our "
+    },
+    {
+     "type": "text_link",
+     "text": "support team",
+     "href": "https://t.me/rayanai_info"
+    },
+    {
+     "type": "plain",
+     "text": " if you encounter any problems.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "type": "message",
+   "date": "2024-10-02T15:30:46",
+   "date_unixtime": "1727870446",
+   "edited": "2024-10-03T14:13:04",
+   "edited_unixtime": "1727952184",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "Rayan-AI-Contest.mp4",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 50,
+   "width": 1920,
+   "height": 1080,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/sticker (14).webp"
+    },
+    " Trustworthiness in Deep Learning\n",
+    {
+     "type": "custom_emoji",
+     "text": "🏬",
+     "document_id": "stickers/sticker (29).webp"
+    },
+    " Held by ",
+    {
+     "type": "bold",
+     "text": "Sharif University of Technology"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    " Starts on ",
+    {
+     "type": "bold",
+     "text": "October 17th"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Get more information and register at: ",
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/sticker (14).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Trustworthiness in Deep Learning\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🏬",
+     "document_id": "stickers/sticker (29).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Held by "
+    },
+    {
+     "type": "bold",
+     "text": "Sharif University of Technology"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Starts on "
+    },
+    {
+     "type": "bold",
+     "text": "October 17th"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Get more information and register at: "
+    },
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "type": "message",
+   "date": "2024-10-05T11:00:46",
+   "date_unixtime": "1728113446",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "text": [
+    {
+     "type": "bold",
+     "text": "🧠"
+    },
+    {
+     "type": "bold",
+     "text": " Rayan contest; Team formation"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    " After completing your registration, you can start creating your teams and get ready to compete. Pay attention that ",
+    {
+     "type": "bold",
+     "text": "each team can have 1 to 4 members"
+    },
+    ".\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗂",
+     "document_id": "stickers/sticker (16).webp"
+    },
+    " A step-by-step guide on how to create your team will soon be available on the channel to assist you with the process.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Register and team up at: ",
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "🧠"
+    },
+    {
+     "type": "bold",
+     "text": " Rayan contest; Team formation"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    {
+     "type": "plain",
+     "text": " After completing your registration, you can start creating your teams and get ready to compete. Pay attention that "
+    },
+    {
+     "type": "bold",
+     "text": "each team can have 1 to 4 members"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗂",
+     "document_id": "stickers/sticker (16).webp"
+    },
+    {
+     "type": "plain",
+     "text": " A step-by-step guide on how to create your team will soon be available on the channel to assist you with the process.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register and team up at: "
+    },
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "type": "message",
+   "date": "2024-10-05T15:30:54",
+   "date_unixtime": "1728129654",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "output.mp4",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 68,
+   "width": 1920,
+   "height": 1080,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan contest; Introduced by Dr. Rohban"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🎤",
+     "document_id": "stickers/sticker (33).webp"
+    },
+    " Hear all about Rayan international AI contest from Dr. Rohban, chief organizer of the contest.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "❓",
+     "document_id": "stickers/sticker (34).webp"
+    },
+    " Discover the details of the contest and its phases.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Register for FREE at: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan contest; Introduced by Dr. Rohban"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎤",
+     "document_id": "stickers/sticker (33).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Hear all about Rayan international AI contest from Dr. Rohban, chief organizer of the contest.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "❓",
+     "document_id": "stickers/sticker (34).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Discover the details of the contest and its phases.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register for FREE at: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "type": "message",
+   "date": "2024-10-07T15:32:15",
+   "date_unixtime": "1728302535",
+   "edited": "2024-10-09T10:44:51",
+   "edited_unixtime": "1728458091",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "TeamFormationGuide-compressed.mp4",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 116,
+   "width": 1920,
+   "height": 1080,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan contest; Team Formation guide"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "💬",
+     "document_id": "stickers/AnimatedSticker (13).tgs"
+    },
+    " In this video, we guide you through the team formation process for the Rayan contest, breaking it down in a straightforward way.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Build your team with 1 to 4 members."
+    },
+    " If you are the only member in your team, just do the creation process; but if your team has more members, share the code with others to let them join.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Register and team up at: ",
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan contest; Team Formation guide"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "💬",
+     "document_id": "stickers/AnimatedSticker (13).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " In this video, we guide you through the team formation process for the Rayan contest, breaking it down in a straightforward way.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Build your team with 1 to 4 members."
+    },
+    {
+     "type": "plain",
+     "text": " If you are the only member in your team, just do the creation process; but if your team has more members, share the code with others to let them join.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register and team up at: "
+    },
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "type": "message",
+   "date": "2024-10-08T15:31:54",
+   "date_unixtime": "1728388914",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "text": [
+    {
+     "type": "bold",
+     "text": "🧠"
+    },
+    {
+     "type": "bold",
+     "text": " Rayan Chatbot"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    " The Rayan Chatbot is now available and can answer your questions in any language! Feel free to ask any questions you have about the Rayan Contest. If your question isn't answered, you can reach out to our ",
+    {
+     "type": "text_link",
+     "text": "Telegram Support team",
+     "href": "https://t.me/rayanai_info"
+    },
+    " for further assistance.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/sticker (14).webp"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@RayanAI_info_Bot"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Get more information and register at: ",
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "🧠"
+    },
+    {
+     "type": "bold",
+     "text": " Rayan Chatbot"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    {
+     "type": "plain",
+     "text": " The Rayan Chatbot is now available and can answer your questions in any language! Feel free to ask any questions you have about the Rayan Contest. If your question isn't answered, you can reach out to our "
+    },
+    {
+     "type": "text_link",
+     "text": "Telegram Support team",
+     "href": "https://t.me/rayanai_info"
+    },
+    {
+     "type": "plain",
+     "text": " for further assistance.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/sticker (14).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@RayanAI_info_Bot"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Get more information and register at: "
+    },
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "type": "message",
+   "date": "2024-10-09T15:31:29",
+   "date_unixtime": "1728475289",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan Calendar"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "💻",
+     "document_id": "stickers/sticker (19).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Screening Phase:  "
+    },
+    "\nStarts ",
+    {
+     "type": "bold",
+     "text": "October 17th, 2024"
+    },
+    ", and runs through ",
+    {
+     "type": "bold",
+     "text": "October 21st, 2024"
+    },
+    ". This is your first step toward AI glory! \n\n",
+    {
+     "type": "custom_emoji",
+     "text": "📊",
+     "document_id": "stickers/sticker (35).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Registration Deadline:  "
+    },
+    "\nDon't miss your chance! You can ",
+    {
+     "type": "bold",
+     "text": "register and create your team until the night before the Screening Phase begins"
+    },
+    ".\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Team Formation:  "
+    },
+    "\nForm your ",
+    {
+     "type": "bold",
+     "text": "squad of up to 4 people"
+    },
+    " and get ready to compete!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Stay tuned for the latest updates and register on our website: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan Calendar"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "💻",
+     "document_id": "stickers/sticker (19).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Screening Phase:  "
+    },
+    {
+     "type": "plain",
+     "text": "\nStarts "
+    },
+    {
+     "type": "bold",
+     "text": "October 17th, 2024"
+    },
+    {
+     "type": "plain",
+     "text": ", and runs through "
+    },
+    {
+     "type": "bold",
+     "text": "October 21st, 2024"
+    },
+    {
+     "type": "plain",
+     "text": ". This is your first step toward AI glory! \n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📊",
+     "document_id": "stickers/sticker (35).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Registration Deadline:  "
+    },
+    {
+     "type": "plain",
+     "text": "\nDon't miss your chance! You can "
+    },
+    {
+     "type": "bold",
+     "text": "register and create your team until the night before the Screening Phase begins"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/sticker (25).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Team Formation:  "
+    },
+    {
+     "type": "plain",
+     "text": "\nForm your "
+    },
+    {
+     "type": "bold",
+     "text": "squad of up to 4 people"
+    },
+    {
+     "type": "plain",
+     "text": " and get ready to compete!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Stay tuned for the latest updates and register on our website: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "type": "message",
+   "date": "2024-10-12T15:29:58",
+   "date_unixtime": "1728734398",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "bold",
+     "text": "🧠"
+    },
+    {
+     "type": "bold",
+     "text": " Join the Rayan Contest!"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "📈",
+     "document_id": "stickers/sticker (36).webp"
+    },
+    " As of Friday night, ",
+    {
+     "type": "bold",
+     "text": "over 3,000 contestants"
+    },
+    " from ",
+    {
+     "type": "bold",
+     "text": "more than 35 countries"
+    },
+    " have registered for the Rayan Contest, making it a truly global competition. Become part of this vibrant community and showcase your skills on an international stage.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Register and team up at: ",
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "🧠"
+    },
+    {
+     "type": "bold",
+     "text": " Join the Rayan Contest!"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📈",
+     "document_id": "stickers/sticker (36).webp"
+    },
+    {
+     "type": "plain",
+     "text": " As of Friday night, "
+    },
+    {
+     "type": "bold",
+     "text": "over 3,000 contestants"
+    },
+    {
+     "type": "plain",
+     "text": " from "
+    },
+    {
+     "type": "bold",
+     "text": "more than 35 countries"
+    },
+    {
+     "type": "plain",
+     "text": " have registered for the Rayan Contest, making it a truly global competition. Become part of this vibrant community and showcase your skills on an international stage.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register and team up at: "
+    },
+    {
+     "type": "link",
+     "text": "AI.rayan.global"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "type": "message",
+   "date": "2024-10-13T15:30:51",
+   "date_unixtime": "1728820851",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 14,
+   "width": 848,
+   "height": 464,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/sticker (14).webp"
+    },
+    " Trustworthiness in AI  \n",
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    " Starts on October 17th  \n",
+    {
+     "type": "custom_emoji",
+     "text": "🎁",
+     "document_id": "stickers/sticker (6).webp"
+    },
+    " Over $35,000 in prizes!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Don’t miss out! Visit our website for more information and registration: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🤖",
+     "document_id": "stickers/sticker (14).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Trustworthiness in AI  \n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Starts on October 17th  \n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🎁",
+     "document_id": "stickers/sticker (6).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Over $35,000 in prizes!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Don’t miss out! Visit our website for more information and registration: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "type": "message",
+   "date": "2024-10-14T15:30:41",
+   "date_unixtime": "1728907241",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    " Only ",
+    {
+     "type": "bold",
+     "text": "3 Days"
+    },
+    " Left Until the Screening Phase Begins!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (37).webp"
+    },
+    " This is your chance to showcase your skills in Artificial Intelligence!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Register and team up: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Only "
+    },
+    {
+     "type": "bold",
+     "text": "3 Days"
+    },
+    {
+     "type": "plain",
+     "text": " Left Until the Screening Phase Begins!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (37).webp"
+    },
+    {
+     "type": "plain",
+     "text": " This is your chance to showcase your skills in Artificial Intelligence!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register and team up: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "type": "message",
+   "date": "2024-10-14T18:01:15",
+   "date_unixtime": "1728916275",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Judges from Prestigious Universities"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/AnimatedSticker (15).tgs"
+    },
+    " We’re honored to have judges from these top universities helping us during the contest:\n\n",
+    {
+     "type": "blockquote",
+     "text": "📼 The Chinese University of Hong Kong\n📼 National University of Singapore\n📼 Dartmouth Geisel School of Medicine\n📼 Hamad Bin Khalifa University\n📼 Sharif University of Technology",
+     "collapsed": false
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Stay tuned for the latest updates and register on our website: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Judges from Prestigious Universities"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/AnimatedSticker (15).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " We’re honored to have judges from these top universities helping us during the contest:\n\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "📼 The Chinese University of Hong Kong\n📼 National University of Singapore\n📼 Dartmouth Geisel School of Medicine\n📼 Hamad Bin Khalifa University\n📼 Sharif University of Technology",
+     "collapsed": false
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Stay tuned for the latest updates and register on our website: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "type": "message",
+   "date": "2024-10-15T15:31:15",
+   "date_unixtime": "1728993675",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    " Only ",
+    {
+     "type": "bold",
+     "text": "2 Days"
+    },
+    " Left Until the Screening Phase Begins!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (37).webp"
+    },
+    " This is your chance to showcase your skills in Artificial Intelligence!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Register and team up: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Only "
+    },
+    {
+     "type": "bold",
+     "text": "2 Days"
+    },
+    {
+     "type": "plain",
+     "text": " Left Until the Screening Phase Begins!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (37).webp"
+    },
+    {
+     "type": "plain",
+     "text": " This is your chance to showcase your skills in Artificial Intelligence!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register and team up: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "type": "message",
+   "date": "2024-10-16T14:31:40",
+   "date_unixtime": "1729076500",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan Calendar"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "💻",
+     "document_id": "stickers/sticker (19).webp"
+    },
+    " Screening Phase:\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "October 17 - 21, 2024"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    " Question Release Time:\n    ",
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (17).tgs"
+    },
+    "October 17 at 6:30 UTC\n        ● Washington, D.C., U.S: 02:30 AM\n        ● Berlin, Germany: 08:30 AM\n        ● Moscow, Russia: 09:30 AM\n        ● Tehran, Iran: 10:00 AM\n        ● Islamabad, Pakistan: 11:30 AM\n        ● New Delhi, India: 12:00 PM\n        ● Beijing, China: 02:30 PM\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    " Judge System Availability:\n    ",
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (17).tgs"
+    },
+    "From 23:59 AOE, October 17th\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "📊",
+     "document_id": "stickers/sticker (35).webp"
+    },
+    " Register and team up by ",
+    {
+     "type": "bold",
+     "text": "October 16th, 2024"
+    },
+    "! If you don't team up before the deadline, you'll miss the chance to take part in the contest. If you need help finding teammates, join ",
+    {
+     "type": "text_link",
+     "text": "this Telegram group",
+     "href": "https://t.me/+qPLtFn9AS7A1OThk"
+    },
+    ".\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Register and team up: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan Calendar"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "💻",
+     "document_id": "stickers/sticker (19).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Screening Phase:\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "October 17 - 21, 2024"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Question Release Time:\n    "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (17).tgs"
+    },
+    {
+     "type": "plain",
+     "text": "October 17 at 6:30 UTC\n        ● Washington, D.C., U.S: 02:30 AM\n        ● Berlin, Germany: 08:30 AM\n        ● Moscow, Russia: 09:30 AM\n        ● Tehran, Iran: 10:00 AM\n        ● Islamabad, Pakistan: 11:30 AM\n        ● New Delhi, India: 12:00 PM\n        ● Beijing, China: 02:30 PM\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Judge System Availability:\n    "
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (17).tgs"
+    },
+    {
+     "type": "plain",
+     "text": "From 23:59 AOE, October 17th\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📊",
+     "document_id": "stickers/sticker (35).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register and team up by "
+    },
+    {
+     "type": "bold",
+     "text": "October 16th, 2024"
+    },
+    {
+     "type": "plain",
+     "text": "! If you don't team up before the deadline, you'll miss the chance to take part in the contest. If you need help finding teammates, join "
+    },
+    {
+     "type": "text_link",
+     "text": "this Telegram group",
+     "href": "https://t.me/+qPLtFn9AS7A1OThk"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register and team up: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "type": "message",
+   "date": "2024-10-16T18:00:43",
+   "date_unixtime": "1729089043",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    " Only ",
+    {
+     "type": "bold",
+     "text": "1 Day"
+    },
+    " Left Until the Screening Phase Begins!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (37).webp"
+    },
+    " This is your chance to showcase your skills in Artificial Intelligence!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Register and team up: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/sticker (18).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Only "
+    },
+    {
+     "type": "bold",
+     "text": "1 Day"
+    },
+    {
+     "type": "plain",
+     "text": " Left Until the Screening Phase Begins!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (37).webp"
+    },
+    {
+     "type": "plain",
+     "text": " This is your chance to showcase your skills in Artificial Intelligence!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Register and team up: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "type": "message",
+   "date": "2024-10-17T11:30:49",
+   "date_unixtime": "1729152049",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan First Phase Question Set"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    " Screening Phase starts today!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⬇️",
+     "document_id": "stickers/AnimatedSticker (18).tgs"
+    },
+    " You can access the question set right now from your dashboard. We also emailed the questions to all of the participants. If you have any questions regarding the contest or the questions, feel free to ask us in our ",
+    {
+     "type": "text_link",
+     "text": "Telegram support",
+     "href": "https://t.me/rayanai_info"
+    },
+    " or via contest email (",
+    {
+     "type": "email",
+     "text": "rayanaicontest@gmail.com"
+    },
+    ").\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "❗️",
+     "document_id": "stickers/AnimatedSticker (19).tgs"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Note:"
+    },
+    " Registration and team formation will remain open until the end of the Screening Phase. The judging system will be available soon.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Rayan Contest website: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan First Phase Question Set"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Screening Phase starts today!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⬇️",
+     "document_id": "stickers/AnimatedSticker (18).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " You can access the question set right now from your dashboard. We also emailed the questions to all of the participants. If you have any questions regarding the contest or the questions, feel free to ask us in our "
+    },
+    {
+     "type": "text_link",
+     "text": "Telegram support",
+     "href": "https://t.me/rayanai_info"
+    },
+    {
+     "type": "plain",
+     "text": " or via contest email ("
+    },
+    {
+     "type": "email",
+     "text": "rayanaicontest@gmail.com"
+    },
+    {
+     "type": "plain",
+     "text": ").\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "❗️",
+     "document_id": "stickers/AnimatedSticker (19).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Note:"
+    },
+    {
+     "type": "plain",
+     "text": " Registration and team formation will remain open until the end of the Screening Phase. The judging system will be available soon.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Rayan Contest website: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "type": "message",
+   "date": "2024-10-18T17:51:47",
+   "date_unixtime": "1729261307",
+   "edited": "2024-10-18T18:49:37",
+   "edited_unixtime": "1729264777",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "Submission Guide.pdf",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "mime_type": "application/pdf",
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan Contest; Submission Guide"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⬆️",
+     "document_id": "stickers/AnimatedSticker (20).tgs"
+    },
+    " This guide will walk you through the process of downloading the contest questions and uploading your answers to the website for evaluation by the judge system.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan Contest; Submission Guide"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⬆️",
+     "document_id": "stickers/AnimatedSticker (20).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " This guide will walk you through the process of downloading the contest questions and uploading your answers to the website for evaluation by the judge system.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "type": "message",
+   "date": "2024-10-18T19:30:53",
+   "date_unixtime": "1729267253",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "file_name": "SubmissionGuide-compressed2.mp4",
+   "thumbnail": "(File not included. Change data exporting settings to download.)",
+   "media_type": "video_file",
+   "mime_type": "video/mp4",
+   "duration_seconds": 241,
+   "width": 1280,
+   "height": 720,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan Contest; Submission Guide"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⬆️",
+     "document_id": "stickers/AnimatedSticker (20).tgs"
+    },
+    " By visiting your dashboard on the contest website, you can download the questions and submit your code for automatic evaluation. In this video, we will guide you through the details of the process.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan Contest; Submission Guide"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⬆️",
+     "document_id": "stickers/AnimatedSticker (20).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " By visiting your dashboard on the contest website, you can download the questions and submit your code for automatic evaluation. In this video, we will guide you through the details of the process.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "type": "message",
+   "date": "2024-10-20T11:16:24",
+   "date_unixtime": "1729410384",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Screening Phase Extended!"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/AnimatedSticker (21).tgs"
+    },
+    "The Screening Phase has been extended, leading to an update in the Rayan AI Contest timeline. Here’s the new schedule:\n\n• Screening Phase: October 17 – ",
+    {
+     "type": "bold",
+     "text": "28"
+    },
+    ", 2024\n• Main Phase: ",
+    {
+     "type": "bold",
+     "text": "October 31 – December 12"
+    },
+    ", 2024\n• Presentation Phase: February 3, 2025\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/AnimatedSticker (15).tgs"
+    },
+    " You can still form or join teams until ",
+    {
+     "type": "bold",
+     "text": "October 21, 2024, 23:59:59 AoE"
+    },
+    ". After that, individuals will be automatically assigned to teams of one.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Screening Phase Extended!"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/AnimatedSticker (21).tgs"
+    },
+    {
+     "type": "plain",
+     "text": "The Screening Phase has been extended, leading to an update in the Rayan AI Contest timeline. Here’s the new schedule:\n\n• Screening Phase: October 17 – "
+    },
+    {
+     "type": "bold",
+     "text": "28"
+    },
+    {
+     "type": "plain",
+     "text": ", 2024\n• Main Phase: "
+    },
+    {
+     "type": "bold",
+     "text": "October 31 – December 12"
+    },
+    {
+     "type": "plain",
+     "text": ", 2024\n• Presentation Phase: February 3, 2025\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "👥",
+     "document_id": "stickers/AnimatedSticker (15).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " You can still form or join teams until "
+    },
+    {
+     "type": "bold",
+     "text": "October 21, 2024, 23:59:59 AoE"
+    },
+    {
+     "type": "plain",
+     "text": ". After that, individuals will be automatically assigned to teams of one.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "type": "message",
+   "date": "2024-10-25T16:13:23",
+   "date_unixtime": "1729860203",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "text": [
+    {
+     "type": "bold",
+     "text": "🧠"
+    },
+    {
+     "type": "bold",
+     "text": " Rayan Contest Update"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗂",
+     "document_id": "stickers/sticker (16).webp"
+    },
+    " Please take note of the following important points to help you plan your next steps:\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "📌",
+     "document_id": "stickers/AnimatedSticker (22).tgs"
+    },
+    " The deadline for the Screening Phase is ",
+    {
+     "type": "bold",
+     "text": "October 28, 23:59:59 AoE"
+    },
+    ". After this, no further submissions will be accepted for this phase.\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    " The ",
+    {
+     "type": "bold",
+     "text": "top 100 teams"
+    },
+    " will advance to the Main Phase, provided they achieve at least ",
+    {
+     "type": "bold",
+     "text": "10% of the total score"
+    },
+    " in the Screening Phase.\n",
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (17).tgs"
+    },
+    " The question set for the Main Phase will be released on ",
+    {
+     "type": "bold",
+     "text": "October 31"
+    },
+    ", and teams will be able to submit their answers until ",
+    {
+     "type": "bold",
+     "text": "December 12"
+    },
+    ".\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "❤",
+     "document_id": "stickers/sticker (38).webp"
+    },
+    " We wish you the best of luck in the competition!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "bold",
+     "text": "🧠"
+    },
+    {
+     "type": "bold",
+     "text": " Rayan Contest Update"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗂",
+     "document_id": "stickers/sticker (16).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Please take note of the following important points to help you plan your next steps:\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📌",
+     "document_id": "stickers/AnimatedSticker (22).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " The deadline for the Screening Phase is "
+    },
+    {
+     "type": "bold",
+     "text": "October 28, 23:59:59 AoE"
+    },
+    {
+     "type": "plain",
+     "text": ". After this, no further submissions will be accepted for this phase.\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " The "
+    },
+    {
+     "type": "bold",
+     "text": "top 100 teams"
+    },
+    {
+     "type": "plain",
+     "text": " will advance to the Main Phase, provided they achieve at least "
+    },
+    {
+     "type": "bold",
+     "text": "10% of the total score"
+    },
+    {
+     "type": "plain",
+     "text": " in the Screening Phase.\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (17).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " The question set for the Main Phase will be released on "
+    },
+    {
+     "type": "bold",
+     "text": "October 31"
+    },
+    {
+     "type": "plain",
+     "text": ", and teams will be able to submit their answers until "
+    },
+    {
+     "type": "bold",
+     "text": "December 12"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "❤",
+     "document_id": "stickers/sticker (38).webp"
+    },
+    {
+     "type": "plain",
+     "text": " We wish you the best of luck in the competition!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "type": "message",
+   "date": "2024-10-28T15:30:47",
+   "date_unixtime": "1730116847",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    " Only ",
+    {
+     "type": "bold",
+     "text": "24 Hours"
+    },
+    " Left to Submit Your Answers for Screening Phase!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Submit your answers at: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Only "
+    },
+    {
+     "type": "bold",
+     "text": "24 Hours"
+    },
+    {
+     "type": "plain",
+     "text": " Left to Submit Your Answers for Screening Phase!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Submit your answers at: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "type": "message",
+   "date": "2024-10-29T03:31:33",
+   "date_unixtime": "1730160093",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    " Only ",
+    {
+     "type": "bold",
+     "text": "12 Hours"
+    },
+    " Left to Submit Your Answers for Screening Phase!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    " Submit your answers at: ",
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan International AI Contest"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Only "
+    },
+    {
+     "type": "bold",
+     "text": "12 Hours"
+    },
+    {
+     "type": "plain",
+     "text": " Left to Submit Your Answers for Screening Phase!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "➡️",
+     "document_id": "stickers/sticker (10).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Submit your answers at: "
+    },
+    {
+     "type": "text_link",
+     "text": "AI.rayan.global",
+     "href": "https://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "type": "message",
+   "date": "2024-10-29T15:51:31",
+   "date_unixtime": "1730204491",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Pay Attention!"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "❗️",
+     "document_id": "stickers/sticker (39).webp"
+    },
+    " Due to unexpected issues with the judging system during the final hours of the Screening Phase, the submission deadline will be extended.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    " The new deadline will be announced once the system issues are resolved. We appreciate your patience and understanding!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Pay Attention!"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "❗️",
+     "document_id": "stickers/sticker (39).webp"
+    },
+    {
+     "type": "plain",
+     "text": " Due to unexpected issues with the judging system during the final hours of the Screening Phase, the submission deadline will be extended.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " The new deadline will be announced once the system issues are resolved. We appreciate your patience and understanding!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "type": "message",
+   "date": "2024-10-29T16:17:19",
+   "date_unixtime": "1730206039",
+   "edited": "2024-10-29T16:21:56",
+   "edited_unixtime": "1730206316",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "reply_to_message_id": 55,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Important Update"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    " The submission deadline has been extended to ",
+    {
+     "type": "bold",
+     "text": "6 hours from now"
+    },
+    ". We appreciate your understanding as we worked through the system issues.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Important Update"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " The submission deadline has been extended to "
+    },
+    {
+     "type": "bold",
+     "text": "6 hours from now"
+    },
+    {
+     "type": "plain",
+     "text": ". We appreciate your understanding as we worked through the system issues.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "type": "service",
+   "date": "2024-10-29T16:17:25",
+   "date_unixtime": "1730206045",
+   "actor": "Rayan AI",
+   "actor_id": "channel2197505070",
+   "action": "pin_message",
+   "message_id": 58,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 60,
+   "type": "message",
+   "date": "2024-11-01T00:37:00",
+   "date_unixtime": "1730408820",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan Contest; Main Phase"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "📝",
+     "document_id": "stickers/AnimatedSticker (23).tgs"
+    },
+    " The Main Phase of the Rayan International AI Contest is about to kick off! Here’s everything you need to know to make the most of this competition phase:\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Leaderboard Check"
+    },
+    ": Ensure your team is among the ",
+    {
+     "type": "bold",
+     "text": "top 100 teams"
+    },
+    " to qualify for the Main Phase. You’ll soon receive a confirmation email verifying your team’s participation.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⬇️",
+     "document_id": "stickers/AnimatedSticker (18).tgs"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Question Set Release"
+    },
+    ": The Main Phase question set will be available for download in your dashboard on ",
+    {
+     "type": "bold",
+     "text": "October 31 at 23:59:59 AoE"
+    },
+    ".\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⬆️",
+     "document_id": "stickers/AnimatedSticker (20).tgs"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Judging System Access"
+    },
+    ": The judging system will open ",
+    {
+     "type": "bold",
+     "text": "a few days after the question set release"
+    },
+    ", enabling you to submit your answers. The specific date will be announced shortly.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/AnimatedSticker (21).tgs"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Submission Deadline"
+    },
+    ": The deadline for submissions is ",
+    {
+     "type": "bold",
+     "text": "December 12 at 23:59:59 AoE"
+    },
+    ". No late submissions will be accepted.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    " To make it easier, here’s a list of the question set release date in various time zones:\n",
+    {
+     "type": "blockquote",
+     "text": "✅ UTC: November 1, 12:00 PM\n        • Washington, D.C., U.S.: November 1, 8:00 AM\n        • Ottawa, Canada: November 1, 8:00 AM\n        • Berlin, Germany: November 1, 1:00 PM\n        • Tehran, Iran: November 1, 3:30 PM\n        • Islamabad, Pakistan: November 1, 5:00 PM\n        • New Delhi, India: November 1, 5:30 PM\n        • Tokyo, Japan: November 1, 9:00 PM\n        • Canberra, Australia: November 1, 11:00 PM",
+     "collapsed": true
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "❤️",
+     "document_id": "stickers/AnimatedSticker (24).tgs"
+    },
+    " Best of luck to all participants in the Main Phase!\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan Contest; Main Phase"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📝",
+     "document_id": "stickers/AnimatedSticker (23).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " The Main Phase of the Rayan International AI Contest is about to kick off! Here’s everything you need to know to make the most of this competition phase:\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Leaderboard Check"
+    },
+    {
+     "type": "plain",
+     "text": ": Ensure your team is among the "
+    },
+    {
+     "type": "bold",
+     "text": "top 100 teams"
+    },
+    {
+     "type": "plain",
+     "text": " to qualify for the Main Phase. You’ll soon receive a confirmation email verifying your team’s participation.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⬇️",
+     "document_id": "stickers/AnimatedSticker (18).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Question Set Release"
+    },
+    {
+     "type": "plain",
+     "text": ": The Main Phase question set will be available for download in your dashboard on "
+    },
+    {
+     "type": "bold",
+     "text": "October 31 at 23:59:59 AoE"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⬆️",
+     "document_id": "stickers/AnimatedSticker (20).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Judging System Access"
+    },
+    {
+     "type": "plain",
+     "text": ": The judging system will open "
+    },
+    {
+     "type": "bold",
+     "text": "a few days after the question set release"
+    },
+    {
+     "type": "plain",
+     "text": ", enabling you to submit your answers. The specific date will be announced shortly.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🗓",
+     "document_id": "stickers/AnimatedSticker (21).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Submission Deadline"
+    },
+    {
+     "type": "plain",
+     "text": ": The deadline for submissions is "
+    },
+    {
+     "type": "bold",
+     "text": "December 12 at 23:59:59 AoE"
+    },
+    {
+     "type": "plain",
+     "text": ". No late submissions will be accepted.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "⏲",
+     "document_id": "stickers/AnimatedSticker (16).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " To make it easier, here’s a list of the question set release date in various time zones:\n"
+    },
+    {
+     "type": "blockquote",
+     "text": "✅ UTC: November 1, 12:00 PM\n        • Washington, D.C., U.S.: November 1, 8:00 AM\n        • Ottawa, Canada: November 1, 8:00 AM\n        • Berlin, Germany: November 1, 1:00 PM\n        • Tehran, Iran: November 1, 3:30 PM\n        • Islamabad, Pakistan: November 1, 5:00 PM\n        • New Delhi, India: November 1, 5:30 PM\n        • Tokyo, Japan: November 1, 9:00 PM\n        • Canberra, Australia: November 1, 11:00 PM",
+     "collapsed": true
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "❤️",
+     "document_id": "stickers/AnimatedSticker (24).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " Best of luck to all participants in the Main Phase!\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    {
+     "type": "plain",
+     "text": ""
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "type": "message",
+   "date": "2024-11-01T21:00:38",
+   "date_unixtime": "1730482238",
+   "from": "Rayan AI",
+   "from_id": "channel2197505070",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 1280,
+   "height": 1280,
+   "text": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Rayan Contest Overview"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "📈",
+     "document_id": "stickers/sticker (36).webp"
+    },
+    " ",
+    {
+     "type": "bold",
+     "text": "Screening Phase"
+    },
+    "\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    " The Screening Phase of the Rayan Contest has concluded, with over ",
+    {
+     "type": "bold",
+     "text": "4,600 contestants"
+    },
+    " participating from more than ",
+    {
+     "type": "bold",
+     "text": "60 countries"
+    },
+    ", forming over ",
+    {
+     "type": "bold",
+     "text": "730 teams"
+    },
+    ".\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    " This phase yielded over ",
+    {
+     "type": "bold",
+     "text": "5,000 submissions"
+    },
+    ", leading to the advancement of the ",
+    {
+     "type": "bold",
+     "text": "top 100 teams"
+    },
+    " to the Main Phase.\n\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    " ",
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    "\n",
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    " ",
+    {
+     "type": "mention",
+     "text": "@Rayan_AI_Contest"
+    },
+    ""
+   ],
+   "text_entities": [
+    {
+     "type": "custom_emoji",
+     "text": "🧠",
+     "document_id": "stickers/sticker.webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Rayan Contest Overview"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "📈",
+     "document_id": "stickers/sticker (36).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "bold",
+     "text": "Screening Phase"
+    },
+    {
+     "type": "plain",
+     "text": "\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "✅",
+     "document_id": "stickers/AnimatedSticker (14).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " The Screening Phase of the Rayan Contest has concluded, with over "
+    },
+    {
+     "type": "bold",
+     "text": "4,600 contestants"
+    },
+    {
+     "type": "plain",
+     "text": " participating from more than "
+    },
+    {
+     "type": "bold",
+     "text": "60 countries"
+    },
+    {
+     "type": "plain",
+     "text": ", forming over "
+    },
+    {
+     "type": "bold",
+     "text": "730 teams"
+    },
+    {
+     "type": "plain",
+     "text": ".\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🔫",
+     "document_id": "stickers/AnimatedSticker (4).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " This phase yielded over "
+    },
+    {
+     "type": "bold",
+     "text": "5,000 submissions"
+    },
+    {
+     "type": "plain",
+     "text": ", leading to the advancement of the "
+    },
+    {
+     "type": "bold",
+     "text": "top 100 teams"
+    },
+    {
+     "type": "plain",
+     "text": " to the Main Phase.\n\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/sticker (11).webp"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Website",
+     "href": "http://ai.rayan.global/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker.tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
+    },
+    {
+     "type": "text_link",
+     "text": "Linkedin",
+     "href": "https://www.linkedin.com/company/rayan-ai-contest/"
+    },
+    {
+     "type": "plain",
+     "text": "\n"
+    },
+    {
+     "type": "custom_emoji",
+     "text": "🌐",
+     "document_id": "stickers/AnimatedSticker (1).tgs"
+    },
+    {
+     "type": "plain",
+     "text": " "
     },
     {
      "type": "mention",
